@@ -1,6 +1,5 @@
 #!/bin/sh
-
-## Creates bootable USB key of Sophos UTM IOS
+## Creates bootable USB key of Sophos UTM ISO. Takes destination block device as argument
 
 TARGET=$1
 
