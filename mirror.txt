@@ -1,0 +1,13 @@
+http://mirror.optus.net/ubuntu/
+http://ubuntu.mirror.serversaustralia.com.au/ubuntu/
+http://mirror.netspace.net.au/pub/ubuntu/
+http://ftp.iinet.net.au/pub/ubuntu/
+http://mirror.overthewire.com.au/ubuntu/
+http://ubuntu.mirror.crucial.com.au/
+http://mirror.as24220.net/pub/ubuntu-archive/
+http://mirror.internode.on.net/pub/ubuntu/ubuntu/
+http://ubuntu.mirror.uber.com.au/archive/
+http://mirror.as24220.net/pub/ubuntu/
+http://mirror.aarnet.edu.au/pub/ubuntu/archive/
+http://mirror.waia.asn.au/ubuntu/
+http://archive.ubuntu.com/ubuntu/
