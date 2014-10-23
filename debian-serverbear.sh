@@ -14,6 +14,7 @@ apt-get -y install curl
 apt-get -y install dpkg-dev
 apt-get -y install fio
 apt-get -y install g++
+apt-get -y install libaio-dev
 apt-get -y install traceroute
 
 wget -N https://raw.github.com/Crowd9/Benchmark/master/sb.sh &&
