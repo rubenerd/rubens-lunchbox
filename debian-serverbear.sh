@@ -1,6 +1,5 @@
 #!/bin/sh
-
-## Script for running private ServerBear tests
+## Script for running private ServerBear tests on Debian
 
 PLAN="Some Hosting Plan"
 EMAIL="someone@example.com"
