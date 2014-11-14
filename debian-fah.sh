@@ -11,7 +11,7 @@ apt-get dist-upgrade
 apt-get install curl firehol
 
 ## Install basic firewall
-sed -i -e 's/^START_FIREHOL.*/START_FIREHOL=YES/' > /etc/default/firehol
+sed -i -e 's/^START_FIREHOL.*/START_FIREHOL=YES/' /etc/default/firehol
 cat > /etc/firehol/firehol.conf <<BIRDISWORD
 version 5
 interface "eth0" internet
