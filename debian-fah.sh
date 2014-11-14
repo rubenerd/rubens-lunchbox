@@ -8,7 +8,7 @@ SOURCE="https://fah.stanford.edu/file-releases/public/release/fahclient/debian-t
 ## Install and update basics
 apt-get update
 apt-get dist-upgrade
-apt-get install curl firehol
+apt-get install curl firehol htop
 
 ## Install basic firewall
 sed -i -e 's/^START_FIREHOL.*/START_FIREHOL=YES/' /etc/default/firehol
