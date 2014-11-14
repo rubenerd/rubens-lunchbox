@@ -19,10 +19,10 @@ interface "eth0" internet
     server "ssh" accept
     client "dns http https ntp ssh" accept
 BIRDISWORD
-/etc/init.d/firehol restart
+/etc/init.d/firehol start
 
 ## Download FAH
 curl -OL $SOURCE
-dpkg -i --force-depends fahclient_7.4.4_amd64.deb"
+dpkg -i --force-depends fahclient_7.4.4_amd64.deb
 
 ## FAH should now be running
