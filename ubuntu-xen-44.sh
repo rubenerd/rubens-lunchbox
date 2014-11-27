@@ -14,6 +14,7 @@ apt-get dist-upgrade
 apt-get install qemu-system-x86
 apt-get install tightvncserver
 apt-get install xtightvncserver
+apt-get install xen-hypervisor-4.4-amd64
 
 ## Configure networking
 cat > /etc/network/interfaces <<BIRDISWORD
