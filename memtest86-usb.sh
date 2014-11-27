@@ -8,4 +8,4 @@ key="/dev/sdb" ## TRIPLE CHECK this drive location first
 curl -OL "http://www.memtest86.com/downloads/memtest86-usb.tar.gz"
 tar xzvf memtest86-usb.tar.gz
 
-sudo dd if=memtest86-usb.tar.gz of=${KEY} bs=10240 conv=sync
+sudo dd if=memtest86-usb.tar.gz of=${key} bs=10240 conv=sync
