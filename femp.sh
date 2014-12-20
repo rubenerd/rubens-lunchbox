@@ -9,6 +9,7 @@ echo "Build nginx mainline, choose your extensions..."
 cd /usr/ports/www/nginx-devel
 make config-recursive
 make install clean
+pkg lock nginx-devel
 
 echo "I don't customise these, so install from pkgng"
 pkg install php56
