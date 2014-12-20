@@ -23,7 +23,7 @@ mkdir /usr/local/etc/nginx/sites-enabled
 mkdir /var/log/nginx
 
 echo "Archive nginx logs in separate directory"
-cat >> /var/newsyslog.log <LOGS
+cat >> /etc/newsyslog.log <LOGS
 ## Ruben's nginx logs
 /var/log/nginx/*.log                    644  64    100  *     XCG
 LOGS
