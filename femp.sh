@@ -3,6 +3,10 @@
 ## FEMP: FreeBSD, (e)nginx, MariaDB, PHP
 ## For running WordPress, etc
 
+echo "Update packages, install ports"
+pkg update
+pkg upgrade
+freebsd-update fetch install
 portsnap fetch extract
 
 echo "Build nginx mainline, choose your extensions..."
@@ -29,3 +33,13 @@ cat >> /etc/newsyslog.log <LOGS
 /var/log/nginx/*.log                    644  64    100  *     XCG
 LOGS
 /etc/rc.d/newsyslog restart
+
+echo "Add ZFS and network performance optimisations"
+cat >> /boot/loader.conf <BIRDISWORD
+## async I/O with ZFS is blazingly fast
+aio_load="YES"
+## Wait for data accept filter before passing to nginx
+accf_data_load="YES"
+## Buffer connections until complete HTTP requests arrive for nginx
+accf_http_load="YES"
+BIRDISWORD
