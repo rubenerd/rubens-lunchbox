@@ -1,8 +1,15 @@
 #!/bin/sh
 
 ## Script to allow multiple user access for Homebrew and Homebrew Casks
-## Assumes "brew" group created in System Preferences, with users added
+##
+## Assumes:
+## * "brew" group created in System Preferences, with users added
+## * homebrew installed with your Administrator account
 
+## Install homebrew as your Administrator (not daily) account
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+## Elevate ourselves for assigning permissions
 sudo -s
 
 ## Folder for homebrew-cask (and my dev stuff)
