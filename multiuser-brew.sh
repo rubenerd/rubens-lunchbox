@@ -5,6 +5,9 @@
 ## Assumes:
 ## * "brew" group created in System Preferences, with users added
 ## * homebrew installed with your Administrator account
+##
+## FWIW, you may only want your Administrator to install and use! In which case,
+## install as normal.
 
 ## Install homebrew as your Administrator (not daily) account
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
