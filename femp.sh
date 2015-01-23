@@ -46,3 +46,9 @@ accf_data_load="YES"
 ## Buffer connections until complete HTTP requests arrive for nginx
 accf_http_load="YES"
 BIRDISWORD
+
+echo "Add harmless warning motd..."
+cat > /etc/motd <<MESSAGE
+UNAUTHORISED ACCESS IS PROHIBITED. All accesses are logged, and incursions
+will be investigated. Thanks for your understanding, and have a lovely day.
+MESSAGE
