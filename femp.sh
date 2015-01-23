@@ -3,11 +3,14 @@
 ## FEMP: FreeBSD, (e)nginx, MariaDB, PHP
 ## For running WordPress, etc
 
-echo "Update packages, install ports"
+echo "Update packages, install ports..."
 pkg update
 pkg upgrade
 freebsd-update fetch install
 portsnap fetch extract
+
+echo "Configure ports for pkgng..."
+echo 'with_pkgng=YES' >> /etc/make.conf
 
 echo "Build nginx mainline, choose your extensions..."
 cd /usr/ports/www/nginx-devel
