@@ -13,3 +13,5 @@ sed -i -e 's/9600/${xen_serial}/g' ${grub_config}
 
 ## Other options are invalid, so boot immediately
 sed -i -e 's/boot_delay=5/boot_delay=0/' ${grub_config}
+
+exit
