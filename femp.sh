@@ -20,6 +20,7 @@ pkg lock nginx-devel
 
 echo "I don't customise these, so install from pkgng"
 pkg install php56
+pkg install php56-mbstring
 pkg install php56-mysql
 pkg install php56-opcache
 pkg install mariadb100-client
