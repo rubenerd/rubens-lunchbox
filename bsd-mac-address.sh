@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ifconfig $1 | grep ether | cut -d ' ' -f2
+ifconfig ${1} | grep ether | cut -d ' ' -f2
