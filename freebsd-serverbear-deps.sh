@@ -1,5 +1,7 @@
 #!/bin/tcsh 
 
+## Their default script breaks. You can use pieces.
+
 set origin = 'your_cloud_or_vps_vendor'
 set plan = 'your_instance_plan_name'
 set contact = 'your_email'
