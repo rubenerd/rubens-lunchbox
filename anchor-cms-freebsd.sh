@@ -22,3 +22,9 @@ mkdir /usr/local/src
 cd /usr/local/src
 curl -OL "http://anchorcms.com/download"
 unzip download
+
+cat >> /etc/rc.conf <<EOF
+nginx_enable="YES"
+mysql_enable="YES"
+php_fpm_enable="YES"
+EOF
