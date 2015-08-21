@@ -19,6 +19,6 @@ zfs create -o casesensitivity=mixed zroot/swimming
 
 ## Enable smart monitoring
 echo 'smartd_enable="YES"' >> /etc/rc.conf
-cp /usr/local/etc/smartd.conf.example /usr/local/etc/smartd.conf
+cp -i /usr/local/etc/smartd.conf.sample /usr/local/etc/smartd.conf
 
 ## TODO: Basic SAMBA stuff
