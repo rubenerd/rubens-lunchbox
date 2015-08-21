@@ -5,6 +5,8 @@
 ## !! THIS COMES WITH NO WARRANTY, BACK UP YOUR DATA  !!
 ## !! NO REALLY, THIS WILL CLOBBER ALL SPINNING DISKS !!
 
+set -e
+
 pkg
 pkg install rsync
 pkg install samba42
