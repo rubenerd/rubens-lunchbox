@@ -1,0 +1,166 @@
+00:00.0 Host bridge: Intel Corporation Xeon E3-1200 Processor Family DRAM Controller (rev 09)
+	Flags: bus master, fast devsel, latency 0
+	Capabilities: <access denied>
+	Kernel driver in use: ie31200_edac
+
+00:01.0 PCI bridge: Intel Corporation Xeon E3-1200/2nd Generation Core Processor Family PCI Express Root Port (rev 09) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0
+	Bus: primary=00, secondary=05, subordinate=05, sec-latency=0
+	Memory behind bridge: fbe00000-fbefffff
+	Prefetchable memory behind bridge: 00000000fa000000-00000000fa7fffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:06.0 PCI bridge: Intel Corporation Xeon E3-1200/2nd Generation Core Processor Family PCI Express Root Port (rev 09) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0
+	Bus: primary=00, secondary=02, subordinate=02, sec-latency=0
+	Memory behind bridge: fbd00000-fbdfffff
+	Prefetchable memory behind bridge: 00000000c0000000-00000000dfffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:1a.0 USB controller: Intel Corporation 6 Series/C200 Series Chipset Family USB Enhanced Host Controller #2 (rev 05) (prog-if 20 [EHCI])
+	Subsystem: Hewlett-Packard Company Device 330d
+	Flags: bus master, medium devsel, latency 0, IRQ 21
+	Memory at facf0000 (32-bit, non-prefetchable) [size=1K]
+	Capabilities: <access denied>
+	Kernel driver in use: ehci-pci
+
+00:1c.0 PCI bridge: Intel Corporation 6 Series/C200 Series Chipset Family PCI Express Root Port 1 (rev b5) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0
+	Bus: primary=00, secondary=0b, subordinate=0b, sec-latency=0
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:1c.4 PCI bridge: Intel Corporation 6 Series/C200 Series Chipset Family PCI Express Root Port 5 (rev b5) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0
+	Bus: primary=00, secondary=03, subordinate=03, sec-latency=0
+	Memory behind bridge: bc000000-bc0fffff
+	Prefetchable memory behind bridge: 00000000f9f00000-00000000f9ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:1c.6 PCI bridge: Intel Corporation 6 Series/C200 Series Chipset Family PCI Express Root Port 7 (rev b5) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0
+	Bus: primary=00, secondary=0e, subordinate=0e, sec-latency=0
+	Memory behind bridge: fbf00000-fbffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:1c.7 PCI bridge: Intel Corporation 6 Series/C200 Series Chipset Family PCI Express Root Port 8 (rev b5) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	I/O behind bridge: 00003000-00004fff
+	Memory behind bridge: fad00000-fbcfffff
+	Prefetchable memory behind bridge: 00000000bf000000-00000000bfffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:1d.0 USB controller: Intel Corporation 6 Series/C200 Series Chipset Family USB Enhanced Host Controller #1 (rev 05) (prog-if 20 [EHCI])
+	Subsystem: Hewlett-Packard Company Device 330d
+	Flags: bus master, medium devsel, latency 0, IRQ 20
+	Memory at face0000 (32-bit, non-prefetchable) [size=1K]
+	Capabilities: <access denied>
+	Kernel driver in use: ehci-pci
+
+00:1e.0 PCI bridge: Intel Corporation 82801 PCI Bridge (rev a5) (prog-if 01 [Subtractive decode])
+	Flags: bus master, fast devsel, latency 0
+	Bus: primary=00, secondary=14, subordinate=14, sec-latency=32
+	Capabilities: <access denied>
+
+00:1f.0 ISA bridge: Intel Corporation C204 Chipset Family LPC Controller (rev 05)
+	Flags: bus master, medium devsel, latency 0
+	Capabilities: <access denied>
+	Kernel driver in use: lpc_ich
+
+00:1f.2 RAID bus controller: Intel Corporation 6 Series/C200 Series Chipset Family SATA RAID Controller (rev 05)
+	Subsystem: Hewlett Packard Enterprise Device 006c
+	Flags: bus master, 66MHz, medium devsel, latency 0, IRQ 94
+	I/O ports at 1000 [size=8]
+	I/O ports at 1008 [size=4]
+	I/O ports at 1010 [size=8]
+	I/O ports at 1018 [size=4]
+	I/O ports at 1020 [size=32]
+	Memory at facd0000 (32-bit, non-prefetchable) [size=2K]
+	Capabilities: <access denied>
+	Kernel driver in use: ahci
+
+01:00.0 System peripheral: Hewlett-Packard Company Integrated Lights-Out Standard Slave Instrumentation & System Support (rev 05)
+	Subsystem: Hewlett-Packard Company iLO4
+	Flags: bus master, fast devsel, latency 0, IRQ 10
+	I/O ports at 3000 [size=256]
+	Memory at fbcf0000 (32-bit, non-prefetchable) [size=512]
+	I/O ports at 3400 [size=256]
+	Capabilities: <access denied>
+
+01:00.1 VGA compatible controller: Matrox Electronics Systems Ltd. MGA G200EH (prog-if 00 [VGA controller])
+	Subsystem: Hewlett-Packard Company iLO4
+	Flags: bus master, fast devsel, latency 0, IRQ 11
+	Memory at bf000000 (32-bit, prefetchable) [size=16M]
+	Memory at fbce0000 (32-bit, non-prefetchable) [size=16K]
+	Memory at fb000000 (32-bit, non-prefetchable) [size=8M]
+	Expansion ROM at <unassigned> [disabled]
+	Capabilities: <access denied>
+
+01:00.2 System peripheral: Hewlett-Packard Company Integrated Lights-Out Standard Management Processor Support and Messaging (rev 05)
+	Subsystem: Hewlett-Packard Company iLO4
+	Flags: bus master, fast devsel, latency 0, IRQ 16
+	I/O ports at 3800 [size=256]
+	Memory at faff0000 (32-bit, non-prefetchable) [size=256]
+	Memory at fae00000 (32-bit, non-prefetchable) [size=1M]
+	Memory at fad80000 (32-bit, non-prefetchable) [size=512K]
+	Memory at fad70000 (32-bit, non-prefetchable) [size=32K]
+	Memory at fad60000 (32-bit, non-prefetchable) [size=32K]
+	[virtual] Expansion ROM at fad00000 [disabled] [size=64K]
+	Capabilities: <access denied>
+	Kernel driver in use: hpilo
+
+01:00.4 USB controller: Hewlett-Packard Company Integrated Lights-Out Standard Virtual USB Controller (rev 02) (prog-if 00 [UHCI])
+	Subsystem: Hewlett-Packard Company iLO4
+	Flags: bus master, fast devsel, latency 0, IRQ 16
+	I/O ports at 4000 [size=32]
+	Capabilities: <access denied>
+	Kernel driver in use: uhci_hcd
+
+02:00.0 Memory controller: Hewlett Packard Enterprise Device 005f
+	Subsystem: Hewlett Packard Enterprise Device 005f
+	Flags: bus master, fast devsel, latency 0, IRQ 11
+	Memory at c0000000 (64-bit, prefetchable) [size=512M]
+	Memory at fbdf0000 (64-bit, non-prefetchable) [size=32K]
+	Capabilities: <access denied>
+
+03:00.0 Ethernet controller: Broadcom Corporation NetXtreme BCM5720 Gigabit Ethernet PCIe
+	Subsystem: Hewlett-Packard Company Device 2133
+	Flags: bus master, fast devsel, latency 0, IRQ 16
+	Memory at f9ff0000 (64-bit, prefetchable) [size=64K]
+	Memory at f9fe0000 (64-bit, prefetchable) [size=64K]
+	Memory at f9fd0000 (64-bit, prefetchable) [size=64K]
+	[virtual] Expansion ROM at bc000000 [disabled] [size=128K]
+	Capabilities: <access denied>
+	Kernel driver in use: tg3
+
+03:00.1 Ethernet controller: Broadcom Corporation NetXtreme BCM5720 Gigabit Ethernet PCIe
+	Subsystem: Hewlett-Packard Company Device 2133
+	Flags: bus master, fast devsel, latency 0, IRQ 17
+	Memory at f9fc0000 (64-bit, prefetchable) [size=64K]
+	Memory at f9fb0000 (64-bit, prefetchable) [size=64K]
+	Memory at f9fa0000 (64-bit, prefetchable) [size=64K]
+	[virtual] Expansion ROM at bc020000 [disabled] [size=128K]
+	Capabilities: <access denied>
+	Kernel driver in use: tg3
+
+05:00.0 InfiniBand: Mellanox Technologies MT26428 [ConnectX VPI PCIe 2.0 5GT/s - IB QDR / 10GigE] (rev a0)
+	Subsystem: Mellanox Technologies Device 0009
+	Physical Slot: 1
+	Flags: bus master, fast devsel, latency 0, IRQ 16
+	Memory at fbe00000 (64-bit, non-prefetchable) [size=1M]
+	Memory at fa000000 (64-bit, prefetchable) [size=8M]
+	Capabilities: <access denied>
+	Kernel driver in use: mlx4_core
+
+0e:00.0 USB controller: Renesas Technology Corp. uPD720201 USB 3.0 Host Controller (rev 03) (prog-if 30 [XHCI])
+	Subsystem: Hewlett-Packard Company Device 1996
+	Flags: bus master, fast devsel, latency 0, IRQ 18
+	Memory at fbff0000 (64-bit, non-prefetchable) [size=8K]
+	Capabilities: <access denied>
+	Kernel driver in use: xhci_hcd
