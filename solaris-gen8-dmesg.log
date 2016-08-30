@@ -1,0 +1,194 @@
+Monday, August 29, 2016 08:03:56 PM AEST
+Aug 28 22:11:26 mio unix: [ID 950921 kern.info] cpu0: Intel(r) Celeron(r) CPU G1610T @ 2.30GHz
+Aug 28 22:11:26 mio unix: [ID 378719 kern.info] NOTICE: cpu_acpi: _PSS package evaluation failed for with status 5 for CPU 1.
+Aug 28 22:11:26 mio unix: [ID 388705 kern.info] NOTICE: cpu_acpi: error parsing _PSS for CPU 1
+Aug 28 22:11:26 mio unix: [ID 928200 kern.info] NOTICE: SpeedStep support is being disabled due to errors parsing ACPI P-state objects exported by BIOS.
+Aug 28 22:11:26 mio unix: [ID 950921 kern.info] cpu1: x86 (chipid 0x0 GenuineIntel 306A9 family 6 model 58 step 9 clock 2300 MHz)
+Aug 28 22:11:26 mio unix: [ID 950921 kern.info] cpu1: Intel(r) Celeron(r) CPU G1610T @ 2.30GHz
+Aug 28 22:11:26 mio unix: [ID 557947 kern.info] cpu1 initialization complete - online
+Aug 28 22:11:26 mio pseudo: [ID 129642 kern.info] pseudo-device: hcad0
+Aug 28 22:11:26 mio genunix: [ID 936769 kern.info] hcad0 is /pseudo/hcad@0
+Aug 28 22:11:26 mio usba: [ID 912658 kern.info] USB 2.0 device (usb45e,7a5) operating at full speed (USB 1.x) on USB 2.0 external hub: device@2, usb_mid0 at bus address 4
+Aug 28 22:11:26 mio usba: [ID 349649 kern.info]         Microsoft Microsoft\256 2.4GHz Transceiver v9.0
+Aug 28 22:11:26 mio genunix: [ID 936769 kern.info] usb_mid0 is /pci@0,0/pci103c,330d@1a/hub@1/device@2
+Aug 28 22:11:26 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1a/hub@1/device@2 (usb_mid0) online
+Aug 28 22:11:26 mio usba: [ID 912658 kern.info] USB 2.0 interface (usbif45e,7a5.config1.0) operating at full speed (USB 1.x) on USB 2.0 external hub: keyboard@0, hid0 at bus address 4
+Aug 28 22:11:26 mio usba: [ID 349649 kern.info]         Microsoft Microsoft\256 2.4GHz Transceiver v9.0
+Aug 28 22:11:26 mio genunix: [ID 936769 kern.info] hid0 is /pci@0,0/pci103c,330d@1a/hub@1/device@2/keyboard@0
+Aug 28 22:11:26 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1a/hub@1/device@2/keyboard@0 (hid0) online
+Aug 28 22:11:26 mio usba: [ID 912658 kern.info] USB 2.0 interface (usbif45e,7a5.config1.1) operating at full speed (USB 1.x) on USB 2.0 external hub: mouse@1, hid1 at bus address 4
+Aug 28 22:11:26 mio usba: [ID 349649 kern.info]         Microsoft Microsoft\256 2.4GHz Transceiver v9.0
+Aug 28 22:11:26 mio genunix: [ID 936769 kern.info] hid1 is /pci@0,0/pci103c,330d@1a/hub@1/device@2/mouse@1
+Aug 28 22:11:26 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1a/hub@1/device@2/mouse@1 (hid1) online
+Aug 28 22:11:26 mio usba: [ID 912658 kern.info] USB 2.0 interface (usbif45e,7a5.config1.2) operating at full speed (USB 1.x) on USB 2.0 external hub: input@2, hid2 at bus address 4
+Aug 28 22:11:26 mio usba: [ID 349649 kern.info]         Microsoft Microsoft\256 2.4GHz Transceiver v9.0
+Aug 28 22:11:26 mio genunix: [ID 936769 kern.info] hid2 is /pci@0,0/pci103c,330d@1a/hub@1/device@2/input@2
+Aug 28 22:11:26 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1a/hub@1/device@2/input@2 (hid2) online
+Aug 28 22:11:27 mio pseudo: [ID 129642 kern.info] pseudo-device: tzmon0
+Aug 28 22:11:27 mio genunix: [ID 936769 kern.info] tzmon0 is /pseudo/tzmon@0
+Aug 28 22:11:27 mio usba: [ID 912658 kern.info] USB 2.0 device (usb8087,24) operating at hi speed (USB 2.x) on USB 2.0 root hub: hub@1, hubd1 at bus address 2
+Aug 28 22:11:27 mio genunix: [ID 936769 kern.info] hubd1 is /pci@0,0/pci103c,330d@1d/hub@1
+Aug 28 22:11:27 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1d/hub@1 (hubd1) online
+Aug 28 22:11:27 mio usba: [ID 912658 kern.info] USB 2.0 device (usb424,2660) operating at hi speed (USB 2.x) on USB 2.0 external hub: hub@3, hubd2 at bus address 3
+Aug 28 22:11:27 mio genunix: [ID 936769 kern.info] hubd2 is /pci@0,0/pci103c,330d@1d/hub@1/hub@3
+Aug 28 22:11:27 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1d/hub@1/hub@3 (hubd2) online
+Aug 28 22:12:29 mio pseudo: [ID 129642 kern.info] pseudo-device: zfs0
+Aug 28 22:12:29 mio genunix: [ID 936769 kern.info] zfs0 is /pseudo/zfs@0
+Aug 28 22:12:29 mio pseudo: [ID 129642 kern.info] pseudo-device: devinfo0
+Aug 28 22:12:29 mio genunix: [ID 936769 kern.info] devinfo0 is /pseudo/devinfo@0
+Aug 28 22:12:30 mio rootnex: [ID 349649 kern.info] fcoe0 at root
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] fcoe0 is /fcoe
+Aug 28 22:12:30 mio pseudo: [ID 129642 kern.info] pseudo-device: dtrace0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] dtrace0 is /pseudo/dtrace@0
+Aug 28 22:12:30 mio rootnex: [ID 349649 kern.info] iscsi0 at root
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] iscsi0 is /iscsi
+Aug 28 22:12:30 mio vga_arbiter: [ID 197929 kern.info] vga_arbiter: device added: PCI:0:1:0.1,decodes=io+mem+IO+MEM,owns=io+mem+IO+MEM,legalocks=none,normlocks=none
+Aug 28 22:12:30 mio vga_arbiter: [ID 254375 kern.info] 1 vga device(s) found
+Aug 28 22:12:30 mio rootnex: [ID 349649 kern.info] vga_arbiter0 at root
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] vga_arbiter0 is /vga_arbiter
+Aug 28 22:12:30 mio rootnex: [ID 349649 kern.info] xsvc0 at root: space 0 offset 0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] xsvc0 is /xsvc@0,0
+Aug 28 22:12:30 mio pseudo: [ID 129642 kern.info] pseudo-device: pseudo1
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] pseudo1 is /pseudo/zconsnex@1
+Aug 28 22:12:30 mio pcplusmp: [ID 805372 kern.info] pcplusmp: asy (asy) instance 0 irq 0x3 vector 0xb0 ioapic 0x8 intin 0x3 is bound to cpu 1
+Aug 28 22:12:30 mio isa: [ID 202937 kern.info] ISA-device: asy0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] asy0 is /pci@0,0/isa@1f/asy@1,2f8
+Aug 28 22:12:30 mio acpinex: [ID 328922 kern.info] acpinex: sb@0, acpinex1
+Aug 28 22:12:30 mio isa: [ID 202937 kern.info] ISA-device: pit_beep0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] pit_beep0 is /pci@0,0/isa@1f/pit_beep
+Aug 28 22:12:30 mio pcplusmp: [ID 805372 kern.info] pcplusmp: pciex14e4,165f (bge) instance 0 irq 0x1d vector 0x60 ioapic 0xff intin 0xff is bound to cpu 0
+Aug 28 22:12:30 mio pcplusmp: [ID 805372 kern.info] pcplusmp: pciexclass,0c0330 (xhci) instance 0 irq 0x1e vector 0x86 ioapic 0xff intin 0xff is bound to cpu 1
+Aug 28 22:12:30 mio pcieb: [ID 586369 kern.info] PCIE-device: pci103c,1996@0, xhci0
+Aug 28 22:12:30 mio npe: [ID 236367 kern.info] PCI Express-device: pci103c,1996@0, xhci0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] xhci0 is /pci@0,0/pci8086,1c1c@1c,6/pci103c,1996@0
+Aug 28 22:12:30 mio pseudo: [ID 129642 kern.info] pseudo-device: biosdrv0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] biosdrv0 is /pseudo/biosdrv@0
+Aug 28 22:12:30 mio mac: [ID 469746 kern.info] NOTICE: bge0 registered
+Aug 28 22:12:30 mio pcieb: [ID 586369 kern.info] PCIE-device: pci103c,2133@0, bge0
+Aug 28 22:12:30 mio npe: [ID 236367 kern.info] PCI Express-device: pci103c,2133@0, bge0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] bge0 is /pci@0,0/pci8086,1c18@1c,4/pci103c,2133@0
+Aug 28 22:12:30 mio pseudo: [ID 129642 kern.info] pseudo-device: bmc0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] bmc0 is /pseudo/bmc@0
+Aug 28 22:12:30 mio pseudo: [ID 129642 kern.info] pseudo-device: dcpc0
+Aug 28 22:12:30 mio genunix: [ID 936769 kern.info] dcpc0 is /pseudo/dcpc@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: fasttrap0
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] fasttrap0 is /pseudo/fasttrap@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: fbt0
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] fbt0 is /pseudo/fbt@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: fcp0
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] fcp0 is /pseudo/fcp@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: fcsm0
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] fcsm0 is /pseudo/fcsm@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: llc10
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] llc10 is /pseudo/llc1@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: lockstat0
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] lockstat0 is /pseudo/lockstat@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: lofi0
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] lofi0 is /pseudo/lofi@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: power0
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] power0 is /pseudo/power@0
+Aug 28 22:12:32 mio pseudo: [ID 129642 kern.info] pseudo-device: profile0
+Aug 28 22:12:32 mio genunix: [ID 936769 kern.info] profile0 is /pseudo/profile@0
+Aug 28 22:12:33 mio pseudo: [ID 129642 kern.info] pseudo-device: ramdisk1024
+Aug 28 22:12:33 mio genunix: [ID 936769 kern.info] ramdisk1024 is /pseudo/ramdisk@1024
+Aug 28 22:12:33 mio pseudo: [ID 129642 kern.info] pseudo-device: sdt0
+Aug 28 22:12:33 mio genunix: [ID 936769 kern.info] sdt0 is /pseudo/sdt@0
+Aug 28 22:12:35 mio pseudo: [ID 129642 kern.info] pseudo-device: srn0
+Aug 28 22:12:35 mio genunix: [ID 936769 kern.info] srn0 is /pseudo/srn@0
+Aug 28 22:12:38 mio pseudo: [ID 129642 kern.info] pseudo-device: systrace0
+Aug 28 22:12:38 mio genunix: [ID 936769 kern.info] systrace0 is /pseudo/systrace@0
+Aug 28 22:12:38 mio pseudo: [ID 129642 kern.info] pseudo-device: ucode0
+Aug 28 22:12:38 mio genunix: [ID 936769 kern.info] ucode0 is /pseudo/ucode@0
+Aug 28 22:12:38 mio pseudo: [ID 129642 kern.info] pseudo-device: uvfs0
+Aug 28 22:12:38 mio genunix: [ID 936769 kern.info] uvfs0 is /pseudo/uvfs@0
+Aug 28 22:12:38 mio pseudo: [ID 129642 kern.info] pseudo-device: bpf0
+Aug 28 22:12:38 mio genunix: [ID 936769 kern.info] bpf0 is /pseudo/bpf@0
+Aug 28 22:12:39 mio pseudo: [ID 129642 kern.info] pseudo-device: fssnap0
+Aug 28 22:12:39 mio genunix: [ID 936769 kern.info] fssnap0 is /pseudo/fssnap@0
+Aug 28 22:12:39 mio ipf: [ID 774698 kern.info] IP Filter: v4.1.9, running.
+Aug 28 22:12:39 mio pseudo: [ID 129642 kern.info] pseudo-device: nsmb0
+Aug 28 22:12:39 mio genunix: [ID 936769 kern.info] nsmb0 is /pseudo/nsmb@0
+Aug 28 22:12:39 mio pseudo: [ID 129642 kern.info] pseudo-device: pm0
+Aug 28 22:12:39 mio genunix: [ID 936769 kern.info] pm0 is /pseudo/pm@0
+Aug 28 22:12:39 mio pseudo: [ID 129642 kern.info] pseudo-device: pool0
+Aug 28 22:12:39 mio genunix: [ID 936769 kern.info] pool0 is /pseudo/pool@0
+Aug 28 22:12:39 mio pcplusmp: [ID 805372 kern.info] pcplusmp: pciex14e4,165f (bge) instance 1 irq 0x1f vector 0x61 ioapic 0xff intin 0xff is bound to cpu 0
+Aug 28 22:12:39 mio mac: [ID 469746 kern.info] NOTICE: bge1 registered
+Aug 28 22:12:39 mio pcieb: [ID 586369 kern.info] PCIE-device: pci103c,2133@0,1, bge1
+Aug 28 22:12:39 mio npe: [ID 236367 kern.info] PCI Express-device: pci103c,2133@0,1, bge1
+Aug 28 22:12:39 mio genunix: [ID 936769 kern.info] bge1 is /pci@0,0/pci8086,1c18@1c,4/pci103c,2133@0,1
+Aug 28 22:12:43 mio genunix: [ID 227219 kern.info] This Solaris instance has UUID 4f230bf3-ffb0-413d-ac68-f00ffaa8229a
+Aug 28 22:12:46 mio genunix: [ID 529163 kern.info] dump device is /dev/zvol/dsk/rpool/dump size 943 MB
+Aug 28 22:13:19 mio bge: [ID 801725 kern.info] NOTICE: bge0: bge_check_copper: link now down speed 0 duplex 0
+Aug 28 22:13:22 mio bge: [ID 801725 kern.info] NOTICE: bge0: bge_check_copper: link now up speed 1000 duplex 2
+Aug 28 22:13:22 mio mac: [ID 435574 kern.info] NOTICE: net0 link up, 1000 Mbps, full duplex
+Aug 28 22:14:44 mio sendmail[1098]: [ID 702911 mail.crit] My unqualified host name (mio) unknown; sleeping for retry
+Aug 28 22:14:44 mio sendmail[1119]: [ID 702911 mail.crit] My unqualified host name (mio) unknown; sleeping for retry
+Aug 28 22:14:59 mio fmd: [ID 377184 daemon.error] SUNW-MSG-ID: SMF-8000-YX, TYPE: defect, VER: 1, SEVERITY: major
+Aug 28 22:14:59 mio EVENT-TIME: Sun Aug 28 22:14:59 AEST 2016
+Aug 28 22:14:59 mio PLATFORM: ProLiant MicroServer Gen8, CSN: SGH513VT3N      , HOSTNAME: mio
+Aug 28 22:14:59 mio SOURCE: software-diagnosis, REV: 0.1
+Aug 28 22:14:59 mio EVENT-ID: 3aa557ca-7105-4031-8c8c-e019996939e6
+Aug 28 22:15:44 mio sendmail[1098]: [ID 702911 mail.alert] unable to qualify my own domain name (mio) -- using short name
+Aug 28 22:15:44 mio sendmail[1119]: [ID 702911 mail.alert] unable to qualify my own domain name (mio) -- using short name
+Aug 28 22:15:44 mio asr-notify[1273]: [ID 555615 daemon.warning] System is not registered with Auto Service Request. Please register system using asradm(1M) or visit http://www.oracle.com/asr for more information.
+Aug 28 22:15:49 mio mac: [ID 736570 kern.info] NOTICE: net1 unregistered
+Aug 28 22:16:16 mio pcplusmp: [ID 805372 kern.info] pcplusmp: pciex14e4,165f (bge) instance 1 irq 0x1f vector 0x61 ioapic 0xff intin 0xff is bound to cpu 1
+Aug 28 22:16:16 mio mac: [ID 469746 kern.info] NOTICE: bge1 registered
+Aug 28 22:16:16 mio pcieb: [ID 586369 kern.info] PCIE-device: pci103c,2133@0,1, bge1
+Aug 28 22:16:16 mio npe: [ID 236367 kern.info] PCI Express-device: pci103c,2133@0,1, bge1
+Aug 28 22:16:16 mio genunix: [ID 936769 kern.info] bge1 is /pci@0,0/pci8086,1c18@1c,4/pci103c,2133@0,1
+Aug 28 22:16:54 mio bge: [ID 801725 kern.info] NOTICE: bge0: bge_check_copper: link now up speed 1000 duplex 2
+Aug 28 22:16:54 mio mac: [ID 435574 kern.info] NOTICE: net0 link up, 1000 Mbps, full duplex
+Aug 28 22:46:05 mio pseudo: [ID 129642 kern.info] pseudo-device: devinfo0
+Aug 28 22:46:05 mio genunix: [ID 936769 kern.info] devinfo0 is /pseudo/devinfo@0
+Aug 28 22:46:28 mio vga_arbiter: [ID 197929 kern.info] vga_arbiter: device added: PCI:0:1:0.1,decodes=io+mem+IO+MEM,owns=io+mem+IO+MEM,legalocks=none,normlocks=none
+Aug 28 22:46:28 mio vga_arbiter: [ID 254375 kern.info] 1 vga device(s) found
+Aug 28 22:46:28 mio rootnex: [ID 349649 kern.info] vga_arbiter0 at root
+Aug 28 22:46:28 mio genunix: [ID 936769 kern.info] vga_arbiter0 is /vga_arbiter
+Aug 28 22:46:28 mio pcplusmp: [ID 805372 kern.info] pcplusmp: asy (asy) instance 0 irq 0x3 vector 0xb0 ioapic 0x8 intin 0x3 is bound to cpu 0
+Aug 28 22:46:28 mio isa: [ID 202937 kern.info] ISA-device: asy0
+Aug 28 22:46:28 mio genunix: [ID 936769 kern.info] asy0 is /pci@0,0/isa@1f/asy@1,2f8
+Aug 28 22:46:28 mio pseudo: [ID 129642 kern.info] pseudo-device: biosdrv0
+Aug 28 22:46:28 mio genunix: [ID 936769 kern.info] biosdrv0 is /pseudo/biosdrv@0
+Aug 28 22:46:28 mio pseudo: [ID 129642 kern.info] pseudo-device: dcpc0
+Aug 28 22:46:28 mio genunix: [ID 936769 kern.info] dcpc0 is /pseudo/dcpc@0
+Aug 28 22:46:28 mio usba: [ID 912658 kern.info] USB 2.0 interface (usbif45e,7a5.config1.2) operating at full speed (USB 1.x) on USB 2.0 external hub: input@2, hid2 at bus address 4
+Aug 28 22:46:28 mio usba: [ID 349649 kern.info]         Microsoft Microsoft\256 2.4GHz Transceiver v9.0
+Aug 28 22:46:28 mio genunix: [ID 936769 kern.info] hid2 is /pci@0,0/pci103c,330d@1a/hub@1/device@2/input@2
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: fbt0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] fbt0 is /pseudo/fbt@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: fcp0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] fcp0 is /pseudo/fcp@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: fcsm0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] fcsm0 is /pseudo/fcsm@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: llc10
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] llc10 is /pseudo/llc1@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: lockstat0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] lockstat0 is /pseudo/lockstat@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: lofi0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] lofi0 is /pseudo/lofi@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: profile0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] profile0 is /pseudo/profile@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: ramdisk1024
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] ramdisk1024 is /pseudo/ramdisk@1024
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: sdt0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] sdt0 is /pseudo/sdt@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: srn0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] srn0 is /pseudo/srn@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: systrace0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] systrace0 is /pseudo/systrace@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: ucode0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] ucode0 is /pseudo/ucode@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: bpf0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] bpf0 is /pseudo/bpf@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: fssnap0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] fssnap0 is /pseudo/fssnap@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: nsmb0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] nsmb0 is /pseudo/nsmb@0
+Aug 28 22:46:30 mio pseudo: [ID 129642 kern.info] pseudo-device: pm0
+Aug 28 22:46:30 mio genunix: [ID 936769 kern.info] pm0 is /pseudo/pm@0
+Aug 29 19:23:53 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1a/hub@1/device@2/keyboard@0 (hid0) removed
+Aug 29 19:23:53 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1a/hub@1/device@2/mouse@1 (hid1) removed
+Aug 29 19:23:53 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1a/hub@1/device@2/input@2 (hid2) removed
+Aug 29 19:23:53 mio genunix: [ID 408114 kern.info] /pci@0,0/pci103c,330d@1a/hub@1/device@2 (usb_mid0) removed
