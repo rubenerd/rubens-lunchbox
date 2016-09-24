@@ -9,7 +9,7 @@ _extension="$3"  ## iso (for cd/dvd) or img (for disks)
 _sectorsize=512  ## 2048 (for cd/dvd) or 512 (for disks, default)
 
 _help() {
-    printf "%s\n" "Use: backup.sh <source device> <destination> <iso/img>" >&2;
+    printf "%s\n" "Use: rescue.sh <source device> <destination> <iso/img>" >&2;
     exit 1;
 }
 
