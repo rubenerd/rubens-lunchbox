@@ -1,0 +1,14 @@
+  pool: tank0
+ state: UNAVAIL
+status: One or more devices could not be opened.  There are insufficient
+        replicas for the pool to continue functioning.
+action: Attach the missing device and online it using 'zpool online'.
+   see: http://illumos.org/msg/ZFS-8000-3C
+  scan: none requested
+config:
+
+        NAME                      STATE     READ WRITE CKSUM
+        tank0                     UNAVAIL      0     0     0
+          mirror-0                UNAVAIL      0     0     0
+            XXXXXXXXXXXXXXXXXX    UNAVAIL      0     0     0  was /dev/diskid/DISK-XXXXXXXXXXXXXX.eli
+            XXXXXXXXXXXXXXXXXXXX  UNAVAIL      0     0     0  was /dev/diskid/DISK-XXXXXXXXXXXXXX.eli
