@@ -1,0 +1,85 @@
+(From http://www.vcfed.org/forum/showthread.php?19823-IBM-PS-1000-Der-PS-1-Tower!&p=133460#post133460)
+
+Spring '91
+----------
+IBM PS/1 models in the Spring 1991 product line:
+2011-C01, M01, C34, M34, T35, U35, NEA
+
+Fall '91
+--------
+IBM PS/1 models in the Fall 1991 product line:
+2121-C42, G42, A62, A82, B82, M82, C92, S92, A94, NE2, NE3
+
+Spring '92
+----------
+IBM PS/1 models in the Spring 1992 product line:
+2123-081, 087, 131, 137, K37, N31, N81
+
+Fall '92
+--------
+IBM PS/1 models in the Fall 1992 product line:
+(The '?' is replaced with the letters "G", "P", "S", or "W".)
+2133-?11, ?13, ?43, ?53, G50
+2155-?14, ?44, ?54, ?76, ?78, P57, P71
+
+Spring '93
+----------
+IBM PS/1 models in the Spring 1993 product line:
+2133-M40, M46, G46, G49, S45, S47, S48, W42, W45, D50
+2155-D53, G52, G72, G82, P74, P84, S50, S70, S75, S80, W48, W67, W77, Z33
+2168-G57, G87, P89, S55, S85, W52, W82
+
+Fall '93
+--------
+IBM PS/1 models in the Fall 1993 product line:
+2133-11E, 13T, 14C, 16E, 17A, 18T, 19C, 28A, 51D
+2155-24C, 43C, 52C, 20E, 39E, 48E, 22T, 41T, 50T, 45V, 55V
+2168-28V, 31E, 33T, 37C, 51E, 54T, 56C, 58V
+w/Sound Blaster sound card
+2155-72E, 74T, 76C, 81A, 82E, 84T, 86C, 88V
+
+Spring '94
+----------
+IBM PS/1 models in the Spring 1994 product line:
+2133-18A, 20C, 21C, 23C, 52D
+2155-RS1
+2168-38C, 57C
+w/Aria sound card
+2155-CC1
+2168-BB1, US1
+w/Sound Blaster sound card
+2155-77C, 79C, 87C, NM1, RS2
+2168-SR1
+
+Fall '94
+--------
+IBM Aptiva models in the Fall 1994 product line:
+w/Aria sound card
+2144-66P(530), 67P(535), 86P(730)
+w/Sound Blaster sound card
+2144-22P(310), 24P(330), 25P(335), 27P(33, 29P(343), 82P(710), 83P(712)
+2168-26P(350), 62P(510)
+
+Spring '95
+----------
+IBM Aptiva models in the Spring 1995 product line:
+2144-P30(550)
+2144-S15(720)
+
+Fall '95
+--------
+IBM Aptiva models in the Fall 1995 product line:
+w/OS/2 & PC-DOS 7.0/Windows 3.11
+2144-M30, M50
+2168-M40, M60, M70
+w/Windows 95
+2144-M31, M51
+2168-M41, M53, M55, M61, M62, M71
+
+============================================================================
+
+PS/Note Models
+--------------
+2141-M82, N82, S82, W82
+2618-C45, E35, M40
+2618-C46, M41, M42
