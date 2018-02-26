@@ -1,0 +1,1 @@
+convert -colors 256 -depth 8 +dither "$1" "$1-dithered.png"
