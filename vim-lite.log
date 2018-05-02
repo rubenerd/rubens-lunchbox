@@ -1,0 +1,33 @@
+vim-lite-8.0.1000
+Name           : vim-lite
+Version        : 8.0.1000
+Installed on   : Tue Aug 29 21:29:33 2017 AEST
+Origin         : editors/vim-lite
+Architecture   : FreeBSD:11:amd64
+Prefix         : /usr/local
+Categories     : editors
+Licenses       : VIM
+Maintainer     : adamw@FreeBSD.org
+WWW            : http://www.vim.org/
+Comment        : Improved version of the vi editor (lite package)
+Options        :
+	DEFAULT_VIMRC  : on
+Annotations    :
+	cpe            : cpe:2.3:a:vim:vim:8.0:::::freebsd11:x64
+	repo_type      : binary
+	repository     : FreeBSD
+Flat size      : 22.7MiB
+Description    :
+Vim is a highly configurable text editor built to enable efficient text editing.
+It is an improved version of the vi editor distributed with most UNIX systems.
+
+Vim is often called a "programmer's editor," and so useful for programming that
+many consider it an entire IDE. It's not just for programmers, though. Vim is
+perfect for all kinds of text editing, from composing email to editing
+configuration files.
+
+Despite what the above comic suggests, Vim can be configured to work in a very
+simple (Notepad-like) way, called evim or Easy Vim.
+
+WWW: http://www.vim.org/
+WWW: https://github.com/vim/vim
