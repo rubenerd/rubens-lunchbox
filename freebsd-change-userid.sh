@@ -1,0 +1,1 @@
+sudo pw usermod -n $_username -u $_new_id
