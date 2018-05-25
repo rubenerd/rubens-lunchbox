@@ -1,6 +1,10 @@
 A very rough copy+pasta job for privacy policy updates received by coworkers and I. I thought it'd be fun to run Wordle or something against it to find the most common words and phrases used.
 
 ----
+## Singapore Airlines Krisflyer
+We have updated our Privacy Policy and the KrisFlyer Terms & Conditions to be in line with the new European Union (EU) General Data Protection Regulation (GDPR) from 25 May 2018. 
+
+----
 ## Blubrry
 We know we’re not the first, second or third email you’ve received from a company about its updated privacy policy because of changes from the EU concerning data protection regulation. But, we’ve gotta do it. Read below to learn about what we’ve done.
 
