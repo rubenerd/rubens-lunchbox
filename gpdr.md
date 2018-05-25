@@ -81,7 +81,6 @@ We are committed to protecting any of your personal information that we hold. We
 ## Quora
 We value your privacy, and want to make sure you’re aware of your options to control your data on Quora. We’ve recently made updates to our Privacy Policy to increase transparency and comply with the European Union’s General Data Protection Regulation (GDPR). We encourage you to read our policies in full, but here are some highlights of what’s changed:
 
-
 ----
 ## Indiegogo
 We’re writing to let you know that we are improving our Terms of Use, Privacy Policy and Cookie Policy. These changes will go into effect on May 25, 2018, and your continued use of the Indiegogo services after May 25, 2018 will be subject to our updated Terms of Use and Privacy Policy.
@@ -133,3 +132,11 @@ The GDPR (General Data Protection Regulation) is an EU-wide privacy and data pro
 ----
 ## VIZ Media
 Our Privacy Policy and Terms of Use have been updated. These changes will apply to our websites and apps starting on May 24, 2018. We value your privacy and encourage you to review the updates. Here are some of the highlights of what’s changing:
+
+----
+## FastMail
+Most services on the Internet have been updating their Terms of Service recently to comply with new privacy European data privacy laws. We’re updating ours, too, but we’re pleased to say that we’re changing almost nothing about how FastMail works.
+
+----
+## Patreon
+We're writing to let you know that we're updating our privacy policy in preparation for the EU's General Data Protection Regulations ("GDPR") which will go into effect on May 25th, 2018.
