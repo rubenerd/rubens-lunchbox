@@ -144,3 +144,35 @@ Most services on the Internet have been updating their Terms of Service recently
 ----
 ## Patreon
 We're writing to let you know that we're updating our privacy policy in preparation for the EU's General Data Protection Regulations ("GDPR") which will go into effect on May 25th, 2018.
+
+----
+## Asiamiles
+At Asia Miles, we’re committed to protecting your privacy. We regularly review our privacy policy to comply with changes in privacy laws around the world and to keep our members’ information safe.
+
+----
+## Dovetail Games
+We’re writing to let you know about recent updates to our Privacy Policy. We’re committed to ensuring your rights and interests are protected and our policies have therefore been updated to reflect new features and to comply with the new European Union data protection laws. 
+
+----
+## Uber
+Whenever we update our Privacy Policy, we’re committed to helping you stay up to date on how and why your information is collected. 
+
+----
+## Steam
+We’ve updated the Steam Privacy Policy to be clearer about our use of customer information. The following are highlights of our changes:
+
+----
+### The Movie Database
+We're sending you this email to let you know that we have updated our Privacy Policy to be in line with the new GDPR requirements for EEA nationals which sets out how we treat their data, as well as their data rights. These changes include:
+
+----
+## YNAB
+I'm sure you’ve gotten a lot of emails recently about privacy policies, especially in response to the General Data Protection Regulation (GDPR) in the European Union. While emails about legal stuff aren’t always exciting, your privacy has always been important to us—and we know it’s important to you.
+
+----
+## ITProTV
+At ITProTV we are committed to protecting the security and confidentiality of the personal data of all of our customers and partners.To stay current with new regulations (including the EU’s General Data Protection Regulation, or “GDPR”), we have updated our Privacy Policy and Terms and Conditions of Use (TOU). These changes will not change the quality or format of the services you are accustomed to receiving from ITProTV, including our full suite of products, content and applications.
+
+----
+## Authy
+We are updating our privacy policy. You may be getting a lot of emails like this right now because companies like us are working to meet the requirements of the new European privacy law called General Data Protection Regulation (or GDPR) which goes into effect on May 25th.
