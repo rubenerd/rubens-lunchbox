@@ -30,3 +30,6 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 #### 2018-06-25: [apple-usbc-multiport-panic.log](./apple-usbc-multiport-panic.log)
 Apple's USB-C to Multiport adaptor for the 12" MacBook isn't great. It panics constantly when monitors are connected. 
 
+#### 2018-06-25: [xenserver-find-vm-vnc-port.md](./xenserver-find-vm-vnc-port.md)
+How to find the VNC port for a specific VM on Xenserver; distinct from Xen.
+
