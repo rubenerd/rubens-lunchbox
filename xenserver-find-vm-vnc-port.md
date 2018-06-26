@@ -1,6 +1,6 @@
 ## Detect xenserver VNC port for VM
 
-Forked from [https://gist.github.com/r72cccp/f44c9e7a1e1ab6af288c](r72cccp).
+Forked from [r72cccp](https://gist.github.com/r72cccp/f44c9e7a1e1ab6af288c).
 
 ### Select your VM
 
