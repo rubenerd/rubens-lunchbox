@@ -1,11 +1,16 @@
-**select your vm:**
+## Detect xenserver VNC port for VM
 
-  `xe vm-list`
+Forked from [https://gist.github.com/r72cccp/f44c9e7a1e1ab6af288c](r72cccp).
+
+## Select your vm
+
+    xe vm-list
+
+## Detect dom-id for that VM
+
+    xe vm-param-list uuid=<$SERVER-UUID> | grep dom-id
   
-**detect id of dom of its vm:**
+## Read VNC port by that dom-id
 
-  `xe vm-param-list uuid=8e2dd6ac-4883-0e6e-5cce-afbf214fa916 | grep dom-id`
-  
-**read vnc port by that dom_id:**
+    xenstore-read /local/domain/<$DOM-ID>/console/vnc-port
 
-  `xenstore-read /local/domain/18/console/vnc-port`
