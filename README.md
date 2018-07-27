@@ -27,6 +27,9 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+#### 2018-07-27: [fave-char-bingo-order.pl](./fave-char-bingo-order.pl)
+My overengineered shuffler for the Favourite Character Bingo meme.
+
 #### 2018-06-25: [apple-usbc-multiport-panic.log](./apple-usbc-multiport-panic.log)
 Apple's USB-C to Multiport adaptor for the 12" MacBook isn't great. It panics constantly when monitors are connected. 
 
