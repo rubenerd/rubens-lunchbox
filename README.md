@@ -9,7 +9,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
     ┌──────────────────────────────────────┐
     │                                      │
-    │           B I T B U C K E T          │
+    │            R U B E N E R D           │
     │                ╔════╗                │
     │        ╔═══════╩════╩═══════╗        │
     │        ║    R U B E N ’S    ║        │
