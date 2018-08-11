@@ -27,6 +27,9 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+#### 2018-08-11: [virustotal-rubenerdcom](./virustotal-rubenerdcom.json)
+API output from running VirusTotal against my blog.
+
 #### 2018-07-27: [fave-char-bingo-order.pl](./fave-char-bingo-order.pl)
 My overengineered shuffler for the Favourite Character Bingo meme.
 
