@@ -27,7 +27,10 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
-#### 2018-08-11: [virustotal-rubenerdcom](./virustotal-rubenerdcom.json)
+#### 2018-09-29: [tourist-dollars-per-capita-2018.csv](./tourist-dollars-per-capita-2018.csv)
+Tourist dollars spent per capita in 2018, from HowMuch.net and Wikipedia.
+
+#### 2018-08-11: [virustotal-rubenerdcom.json](./virustotal-rubenerdcom.json)
 API output from running VirusTotal against my blog.
 
 #### 2018-07-27: [fave-char-bingo-order.pl](./fave-char-bingo-order.pl)
