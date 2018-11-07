@@ -28,7 +28,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 ### Changelog
 
 #### 2018-11-07: [entropy-spam.eml](./entropy-spam.eml)
-Most specacular spam I've ever received, may/may not use as an entropy source.
+Most spectacular spam I've ever received, may/may not use as an entropy source.
 
 #### 2018-10-13: [unix-to-date.sh](./unix-to-date.sh)
 Convert UNIX seconds time to standard date.
@@ -53,4 +53,9 @@ Apple's USB-C to Multiport adaptor for the 12" MacBook isn't great. It panics co
 
 #### 2018-06-25: [xenserver-find-vm-vnc-port.md](./xenserver-find-vm-vnc-port.md)
 How to find the VNC port for a specific VM on Xenserver; distinct from Xen.
+
+
+### Licence
+
+Licenced under the 3-Clause BSD Licence. See [LICENSE.md](./LICENSE.md) for details, including the American spelling for licence.
 
