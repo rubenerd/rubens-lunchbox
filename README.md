@@ -27,6 +27,9 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+#### 2018-11-07: [entropy-spam.eml](./entropy-spam.eml)
+Most specacular spam I've ever received, may/may not use as an entropy source.
+
 #### 2018-10-13: [unix-to-date.sh](./unix-to-date.sh)
 Convert UNIX seconds time to standard date.
 
