@@ -36,6 +36,12 @@ Convert UNIX seconds time to standard date.
 #### 2018-09-29: [tourist-dollars-per-capita-2018.csv](./tourist-dollars-per-capita-2018.csv)
 Tourist dollars spent per capita in 2018, from HowMuch.net and Wikipedia.
 
+#### 2018-09-17: [hugo-segfault.log](./hugo-segfault.log)
+When your blog is so big, it segfaults Hugo!
+
+#### 2018-09-11: [image-magick-mitigation.xml](./image-magick-mitigation.xml)
+ImageMagick PDF vulnerability mitigation.
+
 #### 2018-08-11: [virustotal-rubenerdcom.json](./virustotal-rubenerdcom.json)
 API output from running VirusTotal against my blog.
 
