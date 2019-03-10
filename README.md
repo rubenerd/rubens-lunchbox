@@ -27,6 +27,9 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+#### 2019-03-11: [perlmagick-profile.sh](./perlmagick-profile.sh)
+Shell variables for using PerlMagick on macOS.
+
 #### 2018-11-07: [entropy-spam.eml](./entropy-spam.eml)
 Most spectacular spam I've ever received, may/may not use as an entropy source.
 
