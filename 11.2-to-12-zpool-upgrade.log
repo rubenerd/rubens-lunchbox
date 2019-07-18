@@ -1,0 +1,6 @@
+root@kyou:~ # zpool upgrade tankificate
+This system supports ZFS pool feature flags.
+Enabled the following features on 'tankificate':
+  device_removal
+  obsolete_counts
+  zpool_checkpoint
