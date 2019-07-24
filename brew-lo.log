@@ -1,0 +1,12 @@
+==> Moving App 'LibreOffice.app' to '/Applications/LibreOffice.app'.
+==> Linking Binary 'gengal' to '/usr/local/bin/gengal'.
+==> Linking Binary 'regmerge' to '/usr/local/bin/regmerge'.
+==> Linking Binary 'regview' to '/usr/local/bin/regview'.
+==> Linking Binary 'senddoc' to '/usr/local/bin/senddoc'.
+==> Linking Binary 'ui-previewer' to '/usr/local/bin/ui-previewer'.
+==> Linking Binary 'uno' to '/usr/local/bin/uno'.
+==> Linking Binary 'unopkg' to '/usr/local/bin/unopkg'.
+==> Linking Binary 'urelibs' to '/usr/local/bin/urelibs'.
+==> Linking Binary 'uri-encode' to '/usr/local/bin/uri-encode'.
+==> Linking Binary 'xpdfimport' to '/usr/local/bin/xpdfimport'.
+==> Linking Binary 'soffice.wrapper.sh' to '/usr/local/bin/soffice'.
