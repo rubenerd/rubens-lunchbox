@@ -1,0 +1,524 @@
+[ 0.986917] msgmni has been set to 1898
+[ 0.990865] alg: No test for cipher_null (cipher_null-generic)
+[ 0.996728] alg: No test for ecb(cipher_null) (ecb-cipher_null)
+[ 1.002674] alg: No test for digest_null (digest_null-generic)
+[ 1.008533] alg: No test for compress_null (compress_null-generic)
+[ 1.015194] alg: No test for stdrng (krng)
+[ 1.019406] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 2
+53)
+[ 1.026814] io scheduler noop registered
+[ 1.030739] io scheduler deadline registered
+[ 1.035035] io scheduler cfq registered (default)
+[ 1.041040] input: Power Button as /devices/LNXSYSTM:00/device:00/PNP0C0C:00/
+input/input0
+[ 1.049238] ACPI: Power Button [PWRB]
+[ 1.053006] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/inp
+ut1
+[ 1.060412] ACPI: Power Button [PWRF]
+[ 1.066453] ioatdma: Intel(R) QuickData Technology Driver 4.00
+[ 1.072436] XENFS: not registering filesystem on non-xen platform
+[ 1.078545] hv_utils: Registering HyperV Utility Driver
+[ 1.083772] hv_vmbus: registering driver hv_util
+[ 1.151862] Serial: 8250/16550 driver, 4 ports, IRQ sharing enabled
+[ 1.178761] serial8250: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[ 1.205446] serial8250: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+[ 1.232836] 00:06: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[ 1.259324] 00:07: ttyS1 at I/O 0x2f8 (irq = 3) is a 16550A
+[ 1.265542] intel_rng: FWH not detected
+[ 1.271851] brd: module loaded
+[ 1.276168] loop: module loaded
+[ 1.279702] ata_piix 0000:00:1f.1: PCI INT A -> GSI 18 (level, low) -> IRQ 18
+
+[ 1.287373] scsi0 : ata_piix
+[ 1.290430] scsi1 : ata_piix
+[ 1.294623] ata1: PATA max UDMA/100 cmd 0x1f0 ctl 0x3f6 bmdma 0xffa0 irq 14
+[ 1.301596] ata2: PATA max UDMA/100 cmd 0x170 ctl 0x376 bmdma 0xffa8 irq 15
+[ 1.308789] ata_piix 0000:00:1f.2: PCI INT B -> GSI 19 (level, low) -> IRQ 19
+
+[ 1.315942] ata_piix 0000:00:1f.2: MAP [ P0 P2 P1 P3 ]
+[ 1.321722] scsi2 : ata_piix
+[ 1.324733] scsi3 : ata_piix
+[ 1.328895] ata3: SATA max UDMA/133 cmd 0x7c00 ctl 0x7880 bmdma 0x7400 irq 19
+
+[ 1.336049] ata4: SATA max UDMA/133 cmd 0x7800 ctl 0x7480 bmdma 0x7408 irq 19
+
+[ 1.343538] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[ 1.350099] ehci_hcd 0000:00:1d.7: PCI INT A -> GSI 23 (level, low) -> IRQ 23
+
+[ 1.357263] ehci_hcd 0000:00:1d.7: EHCI Host Controller
+[ 1.362522] ehci_hcd 0000:00:1d.7: new USB bus registered, assigned bus numbe
+r 1
+[ 1.369939] ehci_hcd 0000:00:1d.7: using broken periodic workaround
+[ 1.376215] ehci_hcd 0000:00:1d.7: debug port 1
+[ 1.384654] ehci_hcd 0000:00:1d.7: irq 23, io mem 0xfe4ff800
+[ 1.403367] ehci_hcd 0000:00:1d.7: USB 2.0 started, EHCI 1.00
+[ 1.409373] hub 1-0:1.0: USB hub found
+[ 1.413151] hub 1-0:1.0: 8 ports detected
+[ 1.417334] uhci_hcd: USB Universal Host Controller Interface driver
+[ 1.423739] uhci_hcd 0000:00:1d.0: PCI INT A -> GSI 23 (level, low) -> IRQ 23
+
+[ 1.430892] uhci_hcd 0000:00:1d.0: UHCI Host Controller
+[ 1.436124] uhci_hcd 0000:00:1d.0: new USB bus registered, assigned bus numbe
+r 2
+[ 1.443544] uhci_hcd 0000:00:1d.0: irq 23, io base 0x00007080
+[ 1.449549] hub 2-0:1.0: USB hub found
+[ 1.453320] hub 2-0:1.0: 2 ports detected
+[ 1.457460] uhci_hcd 0000:00:1d.1: PCI INT B -> GSI 19 (level, low) -> IRQ 19
+
+[ 1.475842] ata1.00: CFA: SanDisk SDCFJ-1024, HDX 4.32, max MWDMA2
+[ 1.482025] ata1.00: 2001888 sectors, multi 0: LBA
+[ 1.487055] uhci_hcd 0000:00:1d.1: UHCI Host Controller
+[ 1.492426] uhci_hcd 0000:00:1d.1: new USB bus registered, assigned bus numbe
+r 3
+[ 1.521480] ata1.00: configured for MWDMA2
+[ 1.525694] scsi 0:0:0:0: Direct-Access ATA SanDisk SDCFJ-10 HDX PQ
+: 0 ANSI: 5
+[ 1.533813] uhci_hcd 0000:00:1d.1: irq 19, io base 0x00007000
+[ 1.540016] hub 3-0:1.0: USB hub found
+[ 1.543784] hub 3-0:1.0: 2 ports detected
+[ 1.547901] sd 0:0:0:0: [sda] 2001888 512-byte logical blocks: (1.02 GB/977 M
+iB)
+[ 1.555628] sd 0:0:0:0: [sda] Write Protect is off
+[ 1.560533] uhci_hcd 0000:00:1d.2: PCI INT C -> GSI 18 (level, low) -> IRQ 18
+
+[ 1.567721] sd 0:0:0:0: [sda] Write cache: disabled, read cache: enabled, doe
+sn't support DPO or FUA
+[ 1.576861] uhci_hcd 0000:00:1d.2: UHCI Host Controller
+[ 1.582101] uhci_hcd 0000:00:1d.2: new USB bus registered, assigned bus numbe
+r 4
+[ 1.589854] uhci_hcd 0000:00:1d.2: irq 18, io base 0x00006c00
+[ 1.595989] hub 4-0:1.0: USB hub found
+[ 1.599902] hub 4-0:1.0: 2 ports detected
+[ 1.603953] sda: sda1 sda2 sda3 sda4 < sda5 sda6 >
+[ 1.608976] uhci_hcd 0000:00:1d.3: PCI INT D -> GSI 16 (level, low) -> IRQ 16
+
+[ 1.616394] uhci_hcd 0000:00:1d.3: UHCI Host Controller
+[ 1.621877] sd 0:0:0:0: [sda] Attached SCSI removable disk
+[ 1.627398] uhci_hcd 0000:00:1d.3: new USB bus registered, assigned bus numbe
+r 5
+[ 1.634840] uhci_hcd 0000:00:1d.3: irq 16, io base 0x00006880
+[ 1.640862] hub 5-0:1.0: USB hub found
+[ 1.644641] hub 5-0:1.0: 2 ports detected
+[ 1.648966] usbcore: registered new interface driver usbserial
+[ 1.654870] USB Serial support registered for generic
+[ 1.659985] usbcore: registered new interface driver usbserial_generic
+[ 1.666516] usbserial: USB Serial Driver core
+[ 1.670916] USB Serial support registered for pl2303
+[ 1.675946] usbcore: registered new interface driver pl2303
+[ 1.681526] pl2303: Prolific PL2303 USB to serial adaptor driver
+[ 1.687724] i8042: PNP: No PS/2 controller found. Probing ports directly.
+[ 1.697015] serio: i8042 KBD port at 0x60,0x64 irq 1
+[ 1.701988] serio: i8042 AUX port at 0x60,0x64 irq 12
+[ 1.707287] rtc_cmos 00:03: RTC can wake from S4
+[ 1.712128] rtc_cmos 00:03: rtc core: registered rtc_cmos as rtc0
+[ 1.718273] rtc0: alarms up to one month, y3k, 114 bytes nvram, hpet irqs
+[ 1.725109] i2c /dev entries driver
+[ 1.728745] i801_smbus 0000:00:1f.3: PCI INT B -> GSI 19 (level, low) -> IRQ
+19
+[ 1.736359] iTCO_wdt: Intel TCO WatchDog Timer Driver v1.06
+[ 1.742077] iTCO_wdt: Found a ICH7 or ICH7R TCO device (Version=2, TCOBASE=0x
+0860)
+[ 1.749812] iTCO_wdt: initialized. heartbeat=30 sec (nowayout=0)
+[ 1.755851] IT87 WDT: no device
+[ 1.758999] EDAC MC: Ver: 2.1.0
+[ 1.762374] cpuidle: using governor ladder
+[ 1.766529] hv_vmbus: registering driver hid_hyperv
+[ 1.771519] usbcore: registered new interface driver usbhid
+[ 1.777103] usbhid: USB HID core driver
+[ 1.781028] TCP cubic registered
+[ 1.784273] Initializing XFRM netlink socket
+[ 1.788588] NET: Registered protocol family 10
+[ 1.793215] ip6_tables: (C) 2000-2006 Netfilter Core Team
+[ 1.798625] NET: Registered protocol family 17
+[ 1.803081] NET: Registered protocol family 15
+[ 1.807929] registered taskstats version 1
+[ 1.812578] rtc_cmos 00:03: setting system clock to 2016-01-06 18:43:10 UTC (
+1452105790)
+[ 1.828557] VFS: Mounted root (ext2 filesystem) readonly on device 8:3.
+[ 1.836387] Freeing unused kernel memory: 492k freed
+[ 1.841477] Write protecting the kernel read-only data: 6144k
+[ 1.850199] Freeing unused kernel memory: 684k freed
+[ 1.856499] Freeing unused kernel memory: 248k freed
+[ 1.950035] Refined TSC clocksource calibration: 1994.999 MHz.
+[ 1.955987] Switching to clocksource tsc
+[ 3.056137] Running /etc/runlevel/1/S02rootrw...Done.
+[ 3.238969] Running /etc/runlevel/1/S10armled...Done.
+[ 3.254386] Running /etc/runlevel/1/S12mproc...Done.
+[ 3.255335] Running /etc/runlevel/1/S17sysfs...Done.
+[ 3.256624] Running /etc/runlevel/1/S18seed-random...Reseeded random generato
+r
+[ 3.258862] Done.
+[ 3.264591] Running /etc/runlevel/2/S10var...Done.
+[ 3.266193] Running /etc/runlevel/2/S11sar...Done.
+[ 3.269405] Running /etc/runlevel/2/S11shm...Done.
+[ 3.270665] Running /etc/runlevel/2/S13devpts...Done.
+[ 3.271915] Running /etc/runlevel/2/S14temp...Done.
+[ 3.273197] Running /etc/runlevel/2/S15mbootext2...Done.
+[ 3.276540] Running /etc/runlevel/2/S16checkgrub...S16checkgrub: check SYSA f
+ile
+[ 3.282268] S16checkgrub passed: No Action Required!
+[ 3.282401] Done.
+[ 3.282460] Running /etc/runlevel/2/S16pending...Done.
+[ 3.283752] Running /etc/runlevel/2/S18data...fsck 1.41.0 (10-Jul-2008)
+[ 3.332885] e2fsck 1.41.0 (10-Jul-2008)
+[ 3.402423] /dev/wgrd.sysa_data: clean, 480/39816 files, 34017/642000 blocks
+[ 2.744028] EXT3-fs: barriers not enabled
+[ 2.748529] kjournald starting. Commit interval 5 seconds
+[ 2.758345] EXT3-fs (sda6): using internal journal
+[ 2.763138] EXT3-fs (sda6): mounted filesystem with writeback data mode
+[ 3.599268] Done.
+[ 3.599342] Running /etc/runlevel/2/S18hotplug...Done.
+[ 4.616003] Running /etc/runlevel/2/S18kdump...Done.
+[ 4.918718] Running /etc/runlevel/2/S19ipv6...disabling IPv6 autoconf for all
+
+[ 4.919842] disabling IPv6 autoconf for default
+[ [ 4.101667]
+[ 4.101668] wg_shim_init: Built Oct 18 2013 12:13:50 CPUs 1
+[ 4.101670]
+4.919897] enable[ 4.110579] wg_shim_init: xfrm_skb_cb 36 Hw_callback_data 24
+IPv6 forwarding for all
+[ 4.919941] enable IPv6 forwarding for default
+[ 4.919990] disabling IPv6 for all
+[ 4.920026] disabling IPv6 for default
+[ 4.920066] Done.
+[ 4.920084] Running /etc/runlevel/2/S20cavium...[ 4.137803] pkp_drv: modul
+e license 'CAVIUM' taints kernel.
+[ 4.143391] Disabling lock debugging due to kernel taint
+[ 4.149902] Cavium Driver --- 1.01.00
+[ 4.153584] Nitrox-PX found at Bus 8 Slot 0
+[ 4.157786] pci 0000:08:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+[ 4.164485] Using memory-mapped bar for device 0x177D:0x10
+[ 4.169971] bar 0: fdfff000
+[ 4.188973] NO DDR on the chip
+[ 4.192121] Resorting to Context memory on Host.
+[ 4.196743] part number=1605
+[ 4.199622] totoal number of cores=2
+[ 4.203285] Finished Initializing this device
+[ 4.207685] Total Number of Nitrox Devices: 1
+[ 4.214597] Registration is a success The major device number is 125
+[ 4.220960] To talk to the device driver, please use device appropriate devic
+e node.
+[ 4.228694] Device's minor number corresponds to the microcode to be used.
+[ 4.235567] Please read the README file for further instructions
+[ 4.235568]
+[ 4.243097] Loaded Cavium Driver --- 1.01.00
+[ 4.247457] Starting poll_thread
+[ 4.250696] device count = 1
+[ 6.485213] Write 0xf00000ff into CORE ENABLE after Interrupt bits check
+[ 6.491910] UEN = 0x3
+[ 6.494191] Final Core Mask = 0x00000003
+[ 6.498113] Loaded Boot microcode
+[ 6.505460] All cores joined to group 0,REG_EXEC_GRP: 0x11111111
+[ 6.511462] Additional setup for CN1600
+[ 6.515301] Config: Device Control Reg (offset 0x78): 0x00092810
+[ 6.521307] PCI-E Link error detected: 0x00090000
+[ 6.526102] Disabling units: mask 0x3
+[ 6.529780] Loading ucode 4
+File: /lib/microcode/boot_mc2_px.out
+[ 7.843797] Version = CNPx-MC-BOOT-2.00
+[ 7.843846] Code length = 17536 Data length = 152
+[ 7.032311] Initializing USB Mass Storage driver... index=0, core=0
+
+[ 7.844000] File: /lib/micro[ 7.038831] usbcore: registered new interface
+driver usb-storage
+code/main_ipsec2[ 7.046282] USB Mass Storage support registered.
+_px.out
+[ 7.844054] Version = CNPx-MC-IPSEC-MAIN-0006
+[ 7.844105] Code length = 38448 Data length = 1176
+[ 7.844159] 1: name=/lib/microcode/main_[ 7.064912] e100: Intel(R) PRO/100
+Network Driver, 3.5.24-k2-NAPI
+ipsec2_px.out, i[ 7.072255] e100: Copyright(c) 1999-2006 Intel Corporation
+ndex=4, core=2
+[ 7.079158] e100 0000:01:08.0: PCI INT A -> GSI 20 (level, low) -> IRQ 20
+[ 7.844233] CSP1 core assignments
+[ 7.844268] BOOT : 0x000000
+[ 7.844304] IPSEC_MLM : 0x000003
+[ 7.844674] Done.
+[ 7.844703] Running /etc/runlevel/2/S20cleanup-dbg...Debug build found
+[ 7.845569] Setting legacy VM layout
+[ 7.845612] Done.
+[ 7.845631] Running /etc/runlevel/2/S20sigs...Done.
+[ 7[ 7.115882] e100 0000:01:08.0: eth0: addr 0xfe5ff000, irq 20, MAC addr
+00:90:7f:84:a3:79
+.852055] Running /etc/runlevel/2/S20usb...Done.
+[ 7.881745] Running /etc/runlevel/2/S20wgbase...Done.
+[ 7.887920] Running /etc/runlevel/2/S21eth...[ 7.139847] e1000e: Intel(R)
+PRO/1000 Network Driver - 1.3.10-k2
+[ 7.145872] e1000e: Copyright(c) 1999 - 2011 Intel Corporation.
+[ 7.151823] e1000e 0000:02:00.0: Disabling ASPM L0s
+[ 7.156806] e1000e 0000:02:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+[ 7.274146] e1000e 0000:02:00.0: eth1: (PCI Express:2.5GT/s:Width x1) 00:90:7
+f:84:a3:7a
+[ 7.282175] e1000e 0000:02:00.0: eth1: Intel(R) PRO/1000 Network Connection
+[ 7.289215] e1000e 0000:02:00.0: eth1: MAC: 3, PHY: 8, PBA No: FFFFFF-0FF
+[ 7.296019] e1000e 0000:03:00.0: Disabling ASPM L0s
+[ 7.301007] e1000e 0000:03:00.0: PCI INT A -> GSI 17 (level, low) -> IRQ 17
+[ 7.417499] e1000e 0000:03:00.0: eth2: (PCI Express:2.5GT/s:Width x1) 00:90:7
+f:84:a3:7b
+[ 7.425532] e1000e 0000:03:00.0: eth2: Intel(R) PRO/1000 Network Connection
+[ 7.432571] e1000e 0000:03:00.0: eth2: MAC: 3, PHY: 8, PBA No: FFFFFF-0FF
+[ 7.439373] e1000e 0000:04:00.0: Disabling ASPM L0s
+[ 7.444360] e1000e 0000:04:00.0: PCI INT A -> GSI 18 (level, low) -> IRQ 18
+[ 7.560839] e1000e 0000:04:00.0: eth3: (PCI Express:2.5GT/s:Width x1) 00:90:7
+f:84:a3:7c
+[ 7.568869] e1000e 0000:04:00.0: eth3: Intel(R) PRO/1000 Network Connection
+[ 7.575909] e1000e 0000:04:00.0: eth3: MAC: 3, PHY: 8, PBA No: FFFFFF-0FF
+[ 7.582711] e1000e 0000:05:00.0: Disabling ASPM L0s
+[ 7.587698] e1000e 0000:05:00.0: PCI INT A -> GSI 19 (level, low) -> IRQ 19
+[ 7.704145] e1000e 0000:05:00.0: eth4: (PCI Express:2.5GT/s:Width x1) 00:90:7
+f:84:a3:7d
+[ 7.712174] e1000e 0000:05:00.0: eth4: Intel(R) PRO/1000 Network Connection
+[ 7.719212] e1000e 0000:05:00.0: eth4: MAC: 3, PHY: 8, PBA No: FFFFFF-0FF
+[ 7.726014] e1000e 0000:06:00.0: Disabling ASPM L0s
+[ 7.731001] e1000e 0000:06:00.0: PCI INT A -> GSI 16 (level, low) -> IRQ 16
+[ 7.847480] e1000e 0000:06:00.0: eth5: (PCI Express:2.5GT/s:Width x1) 00:90:7
+f:84:a3:7e
+[ 7.855511] e1000e 0000:06:00.0: eth5: Intel(R) PRO/1000 Network Connection
+[ 7.862551] e1000e 0000:06:00.0: eth5: MAC: 3, PHY: 8, PBA No: FFFFFF-0FF
+[ 7.869352] e1000e 0000:07:00.0: Disabling ASPM L0s
+[ 7.874341] e1000e 0000:07:00.0: PCI INT A -> GSI 17 (level, low) -> IRQ 17
+[ 7.990813] e1000e 0000:07:00.0: eth6: (PCI Express:2.5GT/s:Width x1) 00:90:7
+f:84:a3:7f
+[ 7.998840] e1000e 0000:07:00.0: eth6: Intel(R) PRO/1000 Network Connection
+[ 8.005881] e1000e 0000:07:00.0: eth6: MAC: 3, PHY: 8, PBA No: FFFFFF-0FF
+Done.
+[ 8.844250] Running /et[ 8.017405] Parallel LCM Driver Version 0.0.6 is lo
+aded
+c/runlevel/2/S21[ 8.023019] plcm_drv: LPTx Address = 378
+frontpanel...[ 8.183700] :keypad thread created, threadp = ffff880
+03c154050
+[ 8.190697] :keypad thread started
+D[ 8.197176] W627THF devid detection = 130
+one.
+[ 9.026[ 8.201261] Logical Device GPIO2 disabled, no function, enabling no
+w
+476] Running /et[ 8.208979] GPIO2(bit4) not configured for LED triggering, co
+nfiguring now
+c/runlevel/2/S21vm...Done.
+[ 9.047028] Running /etc/runlevel/2/S22flashrom...[ 8.243377]
+[ 8.244874]
+[ 8.246374]
+[ 8.247875]
+Done.
+[ 9.079083] Running /etc/runlevel/2/S22hwmon...[ 8.257854] coretemp corete
+mp.0: Using relative temperature scale!
+[ 8.471527] w83627hf: w83627hf: Found W83627THF chip at 0xa00
+Done.
+[ 9.310868] Running /etc/runlevel/2/S22login...Done.
+[ 9.311500] Running /etc/runlevel/2/S22rtc...Done.
+[ 9.317673] Running /etc/runlevel/2/S23pppoe...[ 8.496534] PPP generic dri
+ver version 2.4.2
+[ 8.509689] PPP MPPE Compression module registered
+[ 8.515891] PPP Deflate Compression module registered
+[ 8.522638] NET: Registered protocol family 24
+Done.
+[ 9.359856] Running /etc/runlevel/2/S23s[ 8.533855] tun: Universal TUN/TAP
+device driver, 1.6
+slvpn...[ 8.539894] tun: (C) 1999-2004 Max Krasnyansky 
+Done.
+[ 9.377651] Running /etc/runlevel/2/S24[ 8.552268] L2TP core driver, V2.0
+l2tpvpn...[ 8.558241] L2TP netlink interface
+[ 8.564788] PPPoL2TP kernel driver, V2.0
+Done.
+[ 9.398218] Running /etc/runlevel/2/S25core...Done.
+[ 9.399646] Running /etc/runlevel/2/S25wgcfg...Info: No conversion required f
+rom version 11.9.0 to 11.9.0.
+[ 9.876901] Done.
+[ 9.876997] Running /etc/runlevel/2/S27cfgcheck...Config ok
+[ 10.324875] Done.
+[ 10.324930] Running /etc/runlevel/2/S29firewall...Done.
+[ 10.325739] Running /etc/runlevel/2/S29wgcore...Done.
+[ 10.333813] Running /etc/runlevel/2/S30bonding...[ 9.516085] bonding: Ethe
+rnet Channel Bonding Driver: v3.7.1 (April 27, 2011)
+[ 9.523235] bonding: MII link monitoring set to 100 ms
+Done.
+[ 10.357904] Running /etc/runlevel/2/S30net...[ 9.540805] Bridge firewallin
+g registered
+[ 9.547801] Ebtables v2.0 registered
+[ 9.574746] GRE over IPv4 demultiplexor driver
+[ 9.582338] GRE over IPv4 tunneling driver
+[ 9.590497] bvpn vif handlers are registered
+[ 9.600146] 802.1Q VLAN Support v1.8
+Done.
+[ 10.437385] Running /etc/runlevel/2/S30upgrade...Done.
+[ 10.439151] Running /etc/runlevel/2/S31cacert...Done.
+[ 10.441915] Running /etc/runlevel/2/S31cert...Done.
+[ 10.518759] Running /etc/runlevel/2/S31crypto...[ 9.699280]
+[ 9.699281] wg_crypto_init: Built Oct 18 2013 12:13:51 FIPS 0 Nitrox CN1605
+[ 9.699282]
+[ 9.709253] wg_crypto_init: Insert aead 'authenc(digest_null,cbc(des3_ede))-
+wg'
+[ 9.717824] alg: No test for authenc(digest_null,cbc(des3_ede))-wg (authenc(d
+igest_null,cbc(des3_ede))-wg)
+[ 9.727521] wg_crypto_init: Insert aead 'authenc(digest_null,cbc(aes))-wg'
+[ 9.734516] alg: No test for authenc(digest_null,cbc(aes))-wg (authenc(digest
+_null,cbc(aes))-wg)
+[ 9.743301] wg_crypto_init: Insert aead 'authenc(hmac(sha1),ecb(cipher_null)
+)-wg'
+[ 9.750892] alg: No test for authenc(hmac(sha1),ecb(cipher_null))-wg (authenc
+(hmac(sha1),ecb(cipher_null))-wg)
+[ 9.760894] wg_crypto_init: Insert aead 'authenc(hmac(sha1),cbc(des3_ede))-w
+g'
+[ 9.768221] alg: No test for authenc(hmac(sha1),cbc(des3_ede))-wg (authenc(hm
+ac(sha1),cbc(des3_ede))-wg)
+[ 9.777707] wg_crypto_init: Insert aead 'authenc(hmac(sha1),cbc(aes))-wg'
+[ 9.784600] alg: No test for authenc(hmac(sha1),cbc(aes))-wg (authenc(hmac(sh
+a1),cbc(aes))-wg)
+Done.
+[ 10.622833] Running /etc/[ 9.796163] Netfilter messages via NETLINK v0.30.
+
+runlevel/2/S31xtables...[ 9.804822] ip_set_init[1869]: ip_set: protocol 5
+[ 9.847885] nf_conntrack version 0.5.0 (7603 buckets, 30412 max)
+[ 9.853933] nf_conntrack_init_init_net: conntrack max=30412 high water mark=2
+4329
+[ 9.869463] ip_tables: (C) 2000-2006 Netfilter Core Team
+[ 9.885362] nf_ct_ftp: Maximum expected value 1
+[ 9.913510] NF_TPROXY: Transparent proxy support initialized, version 4.1.0
+[ 9.920492] NF_TPROXY: Copyright (c) 2006-2007 BalaBit IT Ltd.
+[ 9.931702] ctnetlink v0.93: registering with nfnetlink.
+[ 9.997793] arp_tables: (C) 2002 David S. Miller
+[ 10.034919] u32 classifier
+[ 10.037667] Performance counters on
+[ 10.041503] input device check on
+[ 10.045165] Actions configured
+[ 10.062787] Mirror/redirect action on
+Done.
+[ 10.901794] Running /etc/runlevel/2/S31xtables6...Done.
+[ 10.916434] Running /etc/runlevel/2/S32clst...Done.
+[ 10.936587] Running /etc/runlevel/2/S32hotspot...Done.
+[ 10.939391] Running /etc/runlevel/2/S32modemdrivers...[ 10.120518] USB Seri
+al support registered for GSM modem (1-port)
+[ 10.127849] usbcore: registered new interface driver option
+[ 10.133436] option: v0.7.2:USB Driver for GSM modems
+[ 10.142604] USB Serial support registered for Sierra USB modem
+[ 10.149726] usbcore: registered new interface driver sierra
+[ 10.155323] sierra: v.1.7.16:USB Driver for Sierra Wireless USB modems
+[ 10.166857] usbcore: registered new interface driver cdc_acm
+[ 10.172529] cdc_acm: USB Abstract Control Model driver for USB modems and ISD
+N adapters
+[ 10.187865] usbcore: registered new interface driver cdc_ether
+[ 10.197208] usbcore: registered new interface driver rndis_host
+Done.
+[ 11.032651] Running /etc/runlevel/2/S32wgxt...[ 10.208653] ipt_addrpairs_6
+v0.1.0: Loading
+[ 10.218412] xt_session6 : Loading
+[ 10.221773] xt_session6 : Loaded limit 1000 hash 1024 WG IPC ID 184549376 (0x
+0B000000)
+[ 10.240407] ipt_addrpairs: ADDRPAIRS SCALE Set MAX 32768 Entry Max 32768
+[ 10.247143] ipt_addrpairs: v1.0.0 Loaded
+[ 10.255145] xt_ifset: Loaded with set limit 5000 and entry limit 5000
+[ 10.263404] xt_classify : Loaded
+[ 10.268428] xt_master: Loaded
+[ 10.273174] xt_MASTER: Loaded
+[ 10.277995] xt_WGTEE: Loaded
+[ 10.282741] Schedule: Loaded
+[ 10.287453] xt_POLICY: Loaded
+[ 10.292177] xt_policy : Loaded
+[ 10.297123] xt_EXPIRES: Loaded
+[ 10.301960] xt_IPPRECEDENCE: Loaded
+[ 10.308248] xt_PKTCACHE: Loaded
+[ 10.317679] xt_session : Loaded limit 1000 hash 1024 WG IPC ID 92274688 (0x05
+800000)
+[ 10.335672] xt_CONNCLASSIFY: Loaded
+[ 10.340979] xt_connclassify : Loaded
+[ 10.346499] xt_ipspoof : Loaded
+[ 10.359644] xt_LBDNAT: Loaded
+[ 10.367865] xt_MWAN: Loaded
+[ 10.374619] xt_psd: Loaded
+[ 10.379241] xt_ipsd: Loaded
+[ 10.383971] xt_ddos: Loaded
+[ 10.388611] xt_dos: Loaded
+[ 10.394927] xt_wgaccount: Loaded
+[ 10.408433] xt_block : Loaded limit 1000 hash 1024 WG IPC ID 155189248
+[ 10.418620] xt_localroute: Loaded
+[ 10.425584] xt_duplicate: Loaded
+[ 10.433395] xt_WGCLASSIFY: Loaded
+Done.
+[ 11.270292] Running /etc/runlevel/2/S33appID...[ 10.472582] [fill_model_par
+am(322)]: Model 'vashon' params:
+[ 10.478175] [fill_model_param(337)]: policy_num : 6000 (POL_NUM_HARD_LIM=60
+00)
+[ 10.478176] ac_mem_size: 157286400
+[ 10.478177] tcp_reasm_flow_num: 10240
+[ 10.478178] ptn_{seq,loc}_tree_node: 81920/81920
+[ 10.478179] tcp_conn_num: 100000, tcp_hash_size: 102400
+[ 10.478180] udp_flow_num: 32000, udp_hash_size: 32768
+[ 10.478181] sg_decoder_num: 32768, http_decoder_num: 10240
+[ 10.514019] [nk_param_init(390)]: Maximum packet queue length: 2048
+[ 10.520282] [nk_param_init(408)]: TCP max conn #: 50000, TCP table size: 1280
+0000; hash #: 51200
+[ 10.529063] [nk_param_init(409)]: UDP max flow #: 32000; hash #: 32768
+[ 10.535588] [nk_param_init(452)]: sizeof(en_bits)=2
+[ 10.540467] [nk_param_init(454)]: tracerid=4294967295
+[ 10.545520] [ipsm_init(565)]: nk_param_init() passed
+[ 10.561975] [nk_system_init(207)]: The IPS engine supports IPv6!
+[ 10.568011] [ipsm_init(574)]: nk_system_init() passed
+[ 10.573124] [ipsm_init(583)]: imlayer_init() passed
+[ 10.578024] [ipsm_init(592)]: logger_init() passed
+[ 10.582814] [nk_tcp_init(2661)]: sizeof(TcpConnection)=256
+[ 10.588757] [ipsm_init(616)]: detector_init() passed
+[ 10.593823] [ipsm_init(625)]: nk_register_node() passed
+[ 10.599884] [ipsm_init(631)]: init_sig_mem() passed
+[ 10.604867] [ipsm_init(681)]: ptn_tree_init() & jlb_init() passed
+[ 10.610958] [ipsm_init(689)]: launch_periodic_tasks() passed
+[ 10.616612] [ipsm_init(698)]: Size of memory allocated: 189124448 bytes (180
+MB)
+[ 10.624091] [ipsm_init(701)]: IPSM prepares to run in 64-bit mode
+[ 10.633191] WG workqueue: Loaded
+[ 10.646143] bw driver: Loaded
+Done.
+[ 11.478637] Running /etc/runlevel/2/S35p[ 10.653471] Proxy glue: Loaded 12:
+23:58 (196)
+roxy...Setting the proxy tmpfs size to size=237m.
+[ 11.495203] Done.
+[ 11.495274] Running /etc/runlevel/2/S35scand...Done.
+[ 11.499805] Running /etc/runlevel/2/S36dynroute...Done.
+[ 11.500624] Running /etc/runlevel/2/S42ssh...Done.
+[ 11.502630] Running /etc/runlevel/2/S43ssh...Done.
+[ 11.504502] Running /etc/runlevel/2/S44sysb...Done.
+[ 11.512881] Running /etc/runlevel/2/S50nettune...Setting IPv4 route garbage c
+ollection timeout to 2 minutes
+[ 11.513881] Setting promote_secondaries to 1
+[ 11.514119] Done.
+[ 11.514165] Running /etc/runlevel/2/S53configdhash...Done.
+[ 11.599355] Running /etc/runlevel/2/S80seed-random...Saved random seed
+[ 11.612251] Done.
+[ 11.612350] Running /etc/runlevel/2/S90kcrashrep...Done.
+[ 11.615048] Running /etc/runlevel/2/S99igmp...Done.
+[ 11.615851] Running /etc/runlevel/2/S99rootro...Done.
+[ 14.001904] ADDRCONF(NETDEV_UP): eth0: link is not ready
+[ 14.189476] ADDRCONF(NETDEV_UP): eth1: link is not ready
+[ 14.194810] 8021q: adding VLAN 0 to HW filter on device eth1
+[ 14.279458] ADDRCONF(NETDEV_UP): eth2: link is not ready
+[ 14.284797] 8021q: adding VLAN 0 to HW filter on device eth2
+[ 14.369442] ADDRCONF(NETDEV_UP): eth3: link is not ready
+[ 14.374782] 8021q: adding VLAN 0 to HW filter on device eth3
+[ 14.459456] ADDRCONF(NETDEV_UP): eth4: link is not ready
+[ 14.464796] 8021q: adding VLAN 0 to HW filter on device eth4
+[ 14.549455] ADDRCONF(NETDEV_UP): eth5: link is not ready
+[ 14.554790] 8021q: adding VLAN 0 to HW filter on device eth5
+[ 14.639461] ADDRCONF(NETDEV_UP): eth6: link is not ready
+[ 14.644802] 8021q: adding VLAN 0 to HW filter on device eth6
+[ 16.577673] Device: 987136.0
+[ 16.580591] Lanner Parallel LCM Driver Opened
+[ 17.415314] Running /etc/runlevel/4/S20debug...[ 16.684430] RPC: Registered
+named UNIX socket transport module.
+[ 16.690398] RPC: Registered udp transport module.
+[ 16.695105] RPC: Registered tcp transport module.
+[ 16.699811] RPC: Registered tcp NFSv4.1 backchannel transport module.
+[ 16.838388] FS-Cache: Netfs 'nfs' registered for caching
+Done.
+[ 17.675037] Running /etc/runlevel/4/S30local...Done.
+[ 17.684156] Running /etc/runlevel/4/S51armled...Done.
+[ 17.686985] Running /etc/runlevel/4/S99printk...Done.
+
+This appliance has debug package installed
+WatchGuard-XTM login: admin
+Password:
+--
+-- WatchGuard Firebox Operating System Software.
+-- Fireware XTM Version 11.9.B433276
+-- Support: https://www.watchguard.com/support/supportLogin.asp
+-- Copyright (C) 1996-2013 WatchGuard Technologies Inc.
+--
+WG#  
