@@ -1,0 +1,26 @@
+==> Installing Cask vmware-fusion
+==> Moving App 'VMware Fusion.app' to '/Applications/VMware Fusion.app'.
+==> Linking Binary 'vmnet-cfgcli' to '/usr/local/bin/vmnet-cfgcli'.
+==> Linking Binary 'vmnet-cli' to '/usr/local/bin/vmnet-cli'.
+==> Linking Binary 'vmnet-dhcpd' to '/usr/local/bin/vmnet-dhcpd'.
+==> Linking Binary 'vmnet-natd' to '/usr/local/bin/vmnet-natd'.
+==> Linking Binary 'vmnet-netifup' to '/usr/local/bin/vmnet-netifup'.
+==> Linking Binary 'vmnet-sniffer' to '/usr/local/bin/vmnet-sniffer'.
+==> Linking Binary 'vmrun' to '/usr/local/bin/vmrun'.
+==> Linking Binary 'vmss2core' to '/usr/local/bin/vmss2core'.
+==> Linking Binary 'vmware-aewp' to '/usr/local/bin/vmware-aewp'.
+==> Linking Binary 'vmware-authd' to '/usr/local/bin/vmware-authd'.
+==> Linking Binary 'vmware-cloneBootCamp' to '/usr/local/bin/vmware-cloneBootCamp'.
+==> Linking Binary 'vmware-id' to '/usr/local/bin/vmware-id'.
+==> Linking Binary 'vmware-rawdiskAuthTool' to '/usr/local/bin/vmware-rawdiskAuthTool'.
+==> Linking Binary 'vmware-rawdiskCreator' to '/usr/local/bin/vmware-rawdiskCreator'.
+==> Linking Binary 'vmware-remotemks' to '/usr/local/bin/vmware-remotemks'.
+==> Linking Binary 'vmware-usbarbitrator' to '/usr/local/bin/vmware-usbarbitrator'.
+==> Linking Binary 'vmware-vdiskmanager' to '/usr/local/bin/vmware-vdiskmanager'.
+==> Linking Binary 'vmware-vmdkserver' to '/usr/local/bin/vmware-vmdkserver'.
+==> Linking Binary 'vmware-vmx' to '/usr/local/bin/vmware-vmx'.
+==> Linking Binary 'vmware-vmx-debug' to '/usr/local/bin/vmware-vmx-debug'.
+==> Linking Binary 'vmware-vmx-stats' to '/usr/local/bin/vmware-vmx-stats'.
+==> Linking Binary 'ovftool' to '/usr/local/bin/ovftool'.
+==> Linking Binary 'vmware-ntfs' to '/usr/local/bin/vmware-ntfs'.
+==> Linking Binary 'vmnet-bridge' to '/usr/local/bin/vmnet-bridge'.
