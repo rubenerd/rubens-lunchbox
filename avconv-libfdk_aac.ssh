@@ -1,0 +1,27 @@
+#!/bin/sh
+
+######
+## Build libav with libfdk_aac, AFAIK the best non-iTunes AAC enconder right now
+
+_prefix="/opt"
+
+apt-get install build-essential
+apt-get install yasm
+apt-get install libfdk-aac-dev
+apt-get install libx264-dev
+
+mkdir "$_prefix"
+cd "$_prefix"
+
+./configure \
+    --prefix=${_prefix} \
+    --enable-gpl \
+    --enable-nonfree \
+    --disable-shared \
+    --enable-static \
+    --enable-libx264 \
+    --enable-libfdk-aac
+
+make
+make install
+make clean
