@@ -1,0 +1,1 @@
+brew install libdvdcss handbrake
