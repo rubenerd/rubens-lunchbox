@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [debian-exfat.sh](./debian-exfat.sh) `2019-07-25` FUSE tools to mount exFAT on Debian.
 * [freebsd-virtualbox-guest.sh](./freebsd-virtualbox-guest.sh) `2019-03-13` Services for FreeBSD VirtualBox guests.
 * [perlmagick-profile.sh](./perlmagick-profile.sh) `2019-03-11` Shell variables for using PerlMagick on macOS.
 * [11.2-to-12-zpool-upgrade.log](./11.2-to-12-zpool-upgrade.log) `2019-01-11` Log of new features upgrading a zpool across FreeBSD 11.2 to 12.0-R.
