@@ -173,6 +173,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 * [serial-baud-rates.md](./serial-baud-rates.md) `2014-10-17` Standard serial baud rates
 * [zpool-raid1-nas-create.sh](./zpool-raid1-nas-create.sh) `2014-10-17` NAS ZFS raid1 (mirror) pool creation
 * [first.pl](./first.pl) `2014-10-17` My first Perl script, from school in 2004
+* [opentsdb.sh](./opentsdb.sh) `2014-08-30` Install OpenTSDB on Debian/Ubuntu
 
 
 ### Licence
