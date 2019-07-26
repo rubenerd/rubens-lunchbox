@@ -51,6 +51,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 * [mariadb-10.1-trusty.sh](./mariadb-10.1-trusty.sh) `2018-05-02` MariaDB 10.1 repo and server on Ubuntu Trusty
 * [randomart-camel.txt](./randomart-camel.txt) `2018-04-24` Camel RSA randomart
 * [brew-lo.log](./brew-lo.log) `2018-02-26` LibreOffice binaries, via Homebrew
+* [shrinkify-bd.sh](./shrinkify-bd.sh) `2018-01-26` Re-encode pointless flac audio in anime mkvs
 * [debian-dmesg-ppc.log](./debian-dmesg-ppc.log) `2018-01-02` Debian dmesg on PowerPC 
 * [FreeBSD.conf](./FreeBSD.conf) `2018-01-02` Override for latest pkg packages, instead of quarterly
 * [xva-img-build-debian.sh](./xva-img-build-debian.sh) `2017-12-22` Build xva-img on Debian
