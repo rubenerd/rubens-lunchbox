@@ -47,6 +47,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 * [freebsd-zfs-file-server.sh](./freebsd-zfs-file-server.sh) `2018-06-13` Simplest FreeBSD ZFS RAIDZ2 file server
 * [remove-key.bat](./remove-key.bat) `2018-06-06` Remove licence/product key from Windows
 * [exists.sh](./exists.sh) `2018-06-02` Cross-platform command exists check (no bashisms)
+* [camera-disabler.mobileconfig](./camera-disabler.mobileconfig) `2018-05-18` macOS policy to disable webcam for obstinent chat apps
 * [qemu-nt351.sh](./qemu-nt351.sh) `2018-05-07` Windows NT 3.51 on QEMU.
 * [homebrew-vmware-fusion.log](./homebrew-vmware-fusion.log) `2018-05-05` VMware Fusion aliases installed with Homebrew
 * [mariadb-10.1-trusty.sh](./mariadb-10.1-trusty.sh) `2018-05-02` MariaDB 10.1 repo and server on Ubuntu Trusty
