@@ -177,7 +177,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 * [zpool-raid1-nas-create.sh](./zpool-raid1-nas-create.sh) `2014-10-17` NAS ZFS raid1 (mirror) pool creation
 * [first.pl](./first.pl) `2014-10-17` My first Perl script, from school in 2004
 * [opentsdb.sh](./opentsdb.sh) `2014-08-30` Install OpenTSDB on Debian/Ubuntu
-
+* [PROBLEM3.PAS](./PROBLEM3.PAS) `2001-02-22` Pascal I wrote in school, found on a disk in 2019!
 
 ### Licence
 
