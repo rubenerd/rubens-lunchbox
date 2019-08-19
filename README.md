@@ -1,11 +1,11 @@
 ## Ruben's Lunchbox
 
-This is my random box of one-off scripts, config files, and notes. Many of these were imported from GitHub Gists and other places. Each file should be self-contained.
+This is my random box of one-off scripts, config files, and notes for easy exporting. Many of these were merged from GitHub Gists, hence the lack of commit messages. Each file should be self-contained.
 
 
 ### Dedication
 
-This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first introduction to computers. Like this repo, it had a bunch of random little games that taught me things. Now this is doing the same thing.
+This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first introduction to computers. Like this repo, it had a bunch of random little gems that taught me things. Maybe there's something here you'll also find useful.
 
     ┌──────────────────────────────────────┐
     │                                      │
