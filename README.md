@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [shuttle.json.txt](./shuttle.json.txt) `2019-11-02` Default Shuttle macOS Terminal launcher config
 * [honeypot-20190818.log](./honeypot-20190818.log) `2019-08-18` Brute force attacks against my phpMyAdmin honeypot
 * [tiger-balm-white.markdown](./tiger-balm-white.markdown) `2019-07-30` Instructions for my go-to headache stuff!
 * [vyos-port-forward.sh](./vyos-port-forward.sh) `2019-07-26` Simple port forward syntax for Vyatta/VyOS
