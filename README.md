@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [freebsd-nvidia-playbook.yml](./freebsd-nvidia-playbook.yml) `2019-11-02` Ansible for nvidia on FreeBSD
 * [afconvert-to-aac.sh](./afconvert-to-aac.sh) `2019-11-02` Convert wav/aiff to aac/mp4 with afconvert
 * [shuttle.json.txt](./shuttle.json.txt) `2019-11-02` Default Shuttle macOS Terminal launcher config
 * [honeypot-20190818.log](./honeypot-20190818.log) `2019-08-18` Brute force attacks against my phpMyAdmin honeypot

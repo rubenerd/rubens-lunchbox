@@ -1,0 +1,19 @@
+---
+- name: FreeBSD nvidia drivers
+  hosts: local
+
+  tasks:
+    - name: Install packages
+    - pkgng:
+      - nvidia-driver
+      - nvidia-xconfig
+
+    - name: Enable Linux compatibility, as required
+      shell: 'sysrc linux_enable=YES'
+
+    - name: Enable nvidia modeset driver
+      lineinfile:
+        path: /boot/loader.conf
+        state: present
+        line: 'nvidia-modeset_load="YES"'
+
