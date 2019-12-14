@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [esta-arrivals.ods](./esta-arrivals.ods) `2019-12-15` Comparing US arrivals as percentage of population
 * [freebsd-nvidia-playbook.yml](./freebsd-nvidia-playbook.yml) `2019-11-02` Ansible for nvidia on FreeBSD
 * [afconvert-to-aac.sh](./afconvert-to-aac.sh) `2019-11-02` Convert wav/aiff to aac/mp4 with afconvert
 * [shuttle.json.txt](./shuttle.json.txt) `2019-11-02` Default Shuttle macOS Terminal launcher config
