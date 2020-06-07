@@ -1,6 +1,6 @@
 ## Ruben's Lunchbox
 
-This is my random box of one-off scripts, config files, and notes for easy exporting. Many of these were merged from GitHub Gists, hence the lack of commit messages. Each file should be self-contained.
+This is my random box of one-off scripts, config files, and notes for easy exporting. Many of these were merged from Gists so I'm not tied to one git host; hence the lack of commit messages. Each file should be self-contained.
 
 
 ### Dedication
@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [odd-microserver-freebsd-boot.sh](./odd-microserver-freebsd-boot.sh) `2020-06-07` USB key to boot to the ODD SATA port
 * [remote-tls-cert-as-text.sh](./remote-tls-cert-as-text) `2020-06-02` View remote server certificate as human-readable text
 * [esta-arrivals.ods](./esta-arrivals.ods) `2019-12-15` Comparing US arrivals as percentage of population
 * [freebsd-nvidia-playbook.yml](./freebsd-nvidia-playbook.yml) `2019-11-02` Ansible for nvidia on FreeBSD
@@ -38,17 +39,17 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 * [debian-exfat.sh](./debian-exfat.sh) `2019-07-25` FUSE tools to mount exFAT on Debian
 * [freebsd-virtualbox-guest.sh](./freebsd-virtualbox-guest.sh) `2019-03-13` Services for FreeBSD VirtualBox guests
 * [perlmagick-profile.sh](./perlmagick-profile.sh) `2019-03-11` Shell variables for using PerlMagick on macOS
-* [11.2-to-12-zpool-upgrade.log](./11.2-to-12-zpool-upgrade.log) `2019-01-11` Log of new features upgrading a zpool across FreeBSD 11.2 to 12.0-R
+* [11.2-to-12-zpool-upgrade.log](./11.2-to-12-zpool-upgrade.log) `2019-01-11` New features upgrading zpool from FreeBSD 11.2 to 12.0-R
 * [entropy-spam.eml](./entropy-spam.eml) `2018-11-07` Most spectacular spam I've ever received, may use as an entropy source
 * [unix-to-date.sh](./unix-to-date.sh) `2018-10-13` Convert UNIX seconds time to standard date
-* [tourist-dollars-per-capita-2018.csv](./tourist-dollars-per-capita-2018.csv) `2018-09-29` Tourist dollars spent per capita in 2018, from HowMuch.net and Wikipedia
+* [tourist-dollars-per-capita-2018.csv](./tourist-dollars-per-capita-2018.csv) `2018-09-29` Tourist dollars spent per capita in 2018
 * [fix-mojave-fonts.sh](./fix-mojave-fonts.sh) `2018-09-18` Fix the horrible new macOS Mojave font rendering settings
 * [hugo-segfault.log](./hugo-segfault.log) `2018-09-17` When your blog is so big, it segfaults Hugo!
 * [image-magick-mitigation.xml](./image-magick-mitigation.xml) `2018-09-11` ImageMagick PDF vulnerability mitigation
 * [virustotal-rubenerdcom.json](./virustotal-rubenerdcom.json) `2018-08-11` API output from running VirusTotal against my blog
 * [fave-char-bingo-order.pl](./fave-char-bingo-order.pl) `2018-07-27` My over-engineered shuffler for the Favourite Character Bingo meme
-* [apple-usbc-multiport-panic.log](./apple-usbc-multiport-panic.log) `2018-06-25` Apple's USB-C to Multiport adaptor for the 12-inch MacBook isn't great
-* [xenserver-find-vm-vnc-port.md](./xenserver-find-vm-vnc-port.md) `2018-06-25` How to find the VNC port for a specific VM on Xenserver; distinct from Xen
+* [apple-usbc-multiport-panic.log](./apple-usbc-multiport-panic.log) `2018-06-25` Apple's USB-C Multiport adaptor isn't great
+* [xenserver-find-vm-vnc-port.md](./xenserver-find-vm-vnc-port.md) `2018-06-25` Find VNC port for a specific VM on Xenserver
 * [load-ssh-agent.sh](./load-ssh-agent.sh) `2018-06-13` For ssh key passwords, and to fix forward-agent in macOS
 * [freebsd-zfs-file-server.sh](./freebsd-zfs-file-server.sh) `2018-06-13` Simplest FreeBSD ZFS RAIDZ2 file server
 * [remove-key.bat](./remove-key.bat) `2018-06-06` Remove licence/product key from Windows
@@ -111,7 +112,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 * [drbd-master-promote.sh](./drbd-master-promote.sh) `2016-03-09` Promote DRBD resource to master
 * [vda-raw-convert.sh](./vda-raw-convert.sh) `2016-02-16` Convert VirtualPC/HyperV vhd to raw image
 * [usb-bootable-sophos.sh](./usb-bootable-sophos.sh) `2016-02-16` Create bootable Sophos UTM key
-* [whole-wheat-radio-playcount.csv](./whole-wheat-radio-playcount.csv) `2016-01-29` Whole Wheat Radio artist play count, before closing
+* [whole-wheat-radio-playcount.csv](./whole-wheat-radio-playcount.csv) `2016-01-29` Whole Wheat Radio artist play count
 * [nginx-devel-freebsd-ports.sh](./nginx-devel-freebsd-ports.sh) `2016-01-21` nginx-devel from FreeBSD ports
 * [build_xva-img_debian.sh](./build_xva-img_debian.sh) `2016-01-17` Build xva-img on Debian
 * [goodbye-github.md](./goodbye-github.md) `2015-12-23` Goodbye, GitHub.
@@ -133,7 +134,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 * [sysctl-noipv6.conf](./sysctl-noipv6.conf) `2015-08-29` Disable IPv6 in Debian/Ubuntu
 * [sysctl.conf](./sysctl.conf) `2015-08-29` A slightly paranoid FreeBSD sysctl.conf
 * [drbd-secondary-demote.sh](./drbd-secondary-demote.sh) `2015-08-29` Demote DRBD resource to secondary
-* [rapidssl-g3-geotrust.pem](./rapidssl-g3-geotrust.pem) `2015-08-29` RapidSSL SHA256 CA - G3, GeoTrust Global certificate bundle
+* [rapidssl-g3-geotrust.pem](./rapidssl-g3-geotrust.pem) `2015-08-29` RapidSSL SHA256 CA - G3, GeoTrust Global cert bundle
 * [zip-to-tarxz.sh](./zip-to-tarxz.sh) `2015-08-29` Recompress zip to tar.xz
 * [iperf-gen8-localhost.markdown](./iperf-gen8-localhost.markdown) `2015-08-29` iPerf on HP Microserver over localhost
 * [lspci-hp-gen8-microserver.log](./lspci-hp-gen8-microserver.log) `2015-08-29` lspci for HP Gen 8 Microserver
