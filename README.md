@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [pkgsrc-mac-fonts.sh](./pkgsrc-mac-fonts.sh) `2020-06-12` Install fonts in macOS downloaded from pkgsrc
 * [odd-microserver-freebsd-boot.sh](./odd-microserver-freebsd-boot.sh) `2020-06-07` USB key to boot to the ODD SATA port
 * [remote-tls-cert-as-text.sh](./remote-tls-cert-as-text) `2020-06-02` View remote server certificate as human-readable text
 * [esta-arrivals.ods](./esta-arrivals.ods) `2019-12-15` Comparing US arrivals as percentage of population
