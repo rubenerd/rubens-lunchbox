@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [openzfs-for-mariadb.sh](./openzfs-for-mariadb.sh) `2020-06-26` Basic ZFS config for MariaDB/Percona/MySQL
 * [pkgsrc-mac-fonts.sh](./pkgsrc-mac-fonts.sh) `2020-06-12` Install fonts in macOS downloaded from pkgsrc
 * [lots-of-known-hosts.log](./lots-of-known-hosts.log) `2020-06-07` That's *lotsa known hosts!*
 * [odd-microserver-freebsd-boot.sh](./odd-microserver-freebsd-boot.sh) `2020-06-07` USB key to boot to the ODD SATA port
