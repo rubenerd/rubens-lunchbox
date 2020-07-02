@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [virtualbox-convert-to-raw.sh](./virtualbox-convert-to-raw.sh) `2020-07-02` Convert Hyper-V images to raw using VBoxManage
 * [my-starred-github-repos.csv](./my-starred-github-repos.csv) `2020-06-29` Starred repos exported from my Github account
 * [nginx-block-spammers.conf](./nginx-block-spammers.conf) `2020-06-28` Tarpit most common web server referral spam
 * [openzfs-for-mariadb.sh](./openzfs-for-mariadb.sh) `2020-06-26` Basic ZFS config for MariaDB/Percona/MySQL
