@@ -27,6 +27,7 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 ### Changelog
 
+* [filename-and-extension.sh](./filename-and-extension.sh) `2020-07-07` basename alternative for getting filename extensions
 * [chatswood-coffee-shops.csv](./chatswood-coffee-shops.csv) `2020-07-06` Laptop-friendly cafes in my favourite Sydney suburb
 * [virtualbox-convert-to-raw.sh](./virtualbox-convert-to-raw.sh) `2020-07-02` Convert Hyper-V images to raw using VBoxManage
 * [my-starred-github-repos.csv](./my-starred-github-repos.csv) `2020-06-29` Starred repos exported from my Github account
