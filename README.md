@@ -26,6 +26,8 @@ This repo is named for [Brandon's Lunchbox], a 1989 DOS game that was my first i
 
 
 ### Changelog
+
+* [bitcoin-scam-site.txt](./bitcoin-scam-site.txt) `2020-07-19` What the name of the file says
 * [x-plane-installer-log-mbp14-2.log](./x-plane-installer-log-mbp14-2.log) `2020-07-19` Installing X-Plane on Mojave
 * [filename-and-extension.sh](./filename-and-extension.sh) `2020-07-07` basename alternative for getting filename extensions
 * [chatswood-coffee-shops.csv](./chatswood-coffee-shops.csv) `2020-07-06` Laptop-friendly cafes in my favourite Sydney suburb
